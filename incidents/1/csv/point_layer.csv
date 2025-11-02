@@ -1,0 +1,1292 @@
+X,Y,incident_id,department,commune,incident_date,details,incident_type_id,gang_affiliations,icon_url
+-72.340666,18.528868,0,West,Port-au-Prince,2025/05/01 08:13:00.985-04,b'Gang activity in progress.',4,,./0.png
+-72.336306,18.541779,2,West,Port-au-Prince,2025/05/01 18:18:00-04,,1,,./0.png
+-72.286417,18.513877,3,West,Petion-Ville,2025/05/01 22:35:00-04,,1,,./0.png
+-72.33934,18.532669,4,West,Port-au-Prince,2025/05/02 13:28:00-04,,1,,./0.png
+-72.320556,18.548333,5,West,Port-au-Prince,2025/05/02 14:05:00-04,b'Clash between gang and the population of the area defending itself.',1,,./0.png
+-72.335833,18.541667,6,West,Port-au-Prince,2025/05/02 18:05:00-04,,1,,./0.png
+-72.335833,18.541667,7,West,Port-au-Prince,2025/05/03 06:26:00.671-04,,1,,./0.png
+-72.335833,18.541667,8,West,Port-au-Prince,2025/05/03 08:26:00.550-04,,1,,./0.png
+-72.336379,18.541775,9,West,Port-au-Prince,2025/05/03 08:28:00-04,,1,,./0.png
+-72.286486,18.604683,10,West,Croix-Des-Bouquets,2025/05/03 10:10:00-04,,1,,./0.png
+-72.512821,18.772188,12,West,Arcahaie,2025/05/03 12:32:00-04,,1,,./0.png
+-72.316773,18.545779,13,West,Delmas,2025/05/03 13:53:00-04,,1,,./0.png
+-72.417412,18.736037,15,West,Cabaret,2025/05/03 14:53:00-04,,1,,./0.png
+-72.336473,18.541824,16,West,Port-au-Prince,2025/05/03 17:59:00-04,,1,,./0.png
+-72.336353,18.541913,17,West,Port-au-Prince,2025/05/03 20:02:00-04,,1,,./0.png
+-72.343999,18.539633,18,West,Port-au-Prince,2025/05/04 08:05:00.808-04,,1,,./0.png
+-72.10622406,18.83595244,19,Centre,Mirebalais,2025/05/04 08:53:00.562-04,b'Gang activity in progress',4,,./0.png
+-72.336585,18.541563,20,West,Port-au-Prince,2025/05/04 13:12:00-04,,1,,./0.png
+-72.316944,18.545833,21,West,Delmas,2025/05/04 13:14:00-04,,1,,./0.png
+-72.254205,18.522797,22,West,Petion-Ville,2025/05/04 21:57:00-04,,1,,./0.png
+-72.333544,18.535104,23,West,Port-au-Prince,2025/05/05 07:16:00.967-04,,1,,./0.png
+-72.333555,18.535126,24,West,Port-au-Prince,2025/05/05 09:30:00.308-04,,1,,./0.png
+-72.338017,18.534098,25,West,Port-au-Prince,2025/05/05 17:23:00.502-04,,1,,./0.png
+-72.33863,18.530207,26,West,Port-au-Prince,2025/05/06 08:20:00-04,,1,,./0.png
+-72.305416,18.573756,28,West,Delmas,2025/05/06 14:43:00-04,,1,,./0.png
+-72.311134,18.554744,29,West,Delmas,2025/05/06 15:53:00-04,,1,,./0.png
+-72.320354,18.547959,30,West,Port-au-Prince,2025/05/06 17:46:00-04,,1,,./0.png
+-72.253312,18.522992,31,West,Petion-Ville,2025/05/06 22:01:00-04,,1,,./0.png
+-72.104525,18.832947,32,Centre,Mirebalais,2025/05/07 12:05:00.915-04,,1,,./0.png
+-72.108816,18.816804,33,Centre,Mirebalais,2025/05/07 12:05:00.955-04,b'Armed man on the RN3 at the exit of Mirebalais towards Hinche.',4,,./0.png
+-72.338119,18.534172,34,West,Port-au-Prince,2025/05/07 17:20:00-04,,1,,./0.png
+-72.321762,18.550775,35,West,Port-au-Prince,2025/05/07 21:31:00-04,,1,,./0.png
+-72.312621,18.561902,36,West,Delmas,2025/05/08 07:45:00.346-04,,1,,./0.png
+-72.343052,18.539452,38,West,Port-au-Prince,2025/05/08 19:20:00-04,,1,,./0.png
+-72.284752,18.446002,39,West,Kenscoff,2025/05/09 07:03:00.608-04,,1,,./0.png
+-72.319668,18.497997,40,West,Petion-Ville,2025/05/09 07:08:00.061-04,,1,,./0.png
+-72.3024672,18.4204176,41,West,Kenscoff,2025/05/09 06:00:00.660-04,"b""The gangs attacked the police station in the area early in the morning, seizing all the police officers' tactical equipment, weapons, bulletproof vests, ammunition and vehicles.""",4,,./0.png
+-72.300493,18.417812,42,West,Kenscoff,2025/05/09 10:54:00.599-04,,1,,./0.png
+-72.346655,18.536506,43,West,Port-au-Prince,2025/05/09 12:41:00.202-04,,1,,./0.png
+-72.338086,18.534123,44,West,Port-au-Prince,2025/05/10 07:01:00-04,,1,,./0.png
+-72.335156,18.532119,45,West,Port-au-Prince,2025/05/10 09:20:00-04,,1,,./0.png
+-72.287833,18.451954,46,West,Kenscoff,2025/05/10 10:27:00-04,b'Police operation in progress',4,,./0.png
+-72.065952,18.531147,47,West,Ganthier,2025/05/10 00:26:00-04,b'Gang activity in progress',4,,./0.png
+-72.335366,18.532309,48,West,Port-au-Prince,2025/05/10 18:10:00-04,,1,,./0.png
+-72.335349,18.532235,49,West,Port-au-Prince,2025/05/11 07:21:00.649-04,,1,,./0.png
+-72.299995,18.417062,50,West,Kenscoff,2025/05/11 08:29:00.022-04,,1,,./0.png
+-72.341293,18.539104,51,West,Port-au-Prince,2025/05/11 09:05:00.744-04,,1,,./0.png
+-72.343529,18.539574,52,West,Port-au-Prince,2025/05/11 12:53:00-04,,1,,./0.png
+-72.338724,18.530345,53,West,Port-au-Prince,2025/05/11 12:55:00-04,,1,,./0.png
+-72.342241,18.536119,54,West,Port-au-Prince,2025/05/11 22:08:00-04,,1,,./0.png
+-72.286451,18.449796,55,West,Kenscoff,2025/05/12 08:26:00.996-04,,1,,./0.png
+-72.305849,18.582686,56,West,Tabarre,2025/05/12 10:10:00.096-04,b'On several occasions during the day armed men were observed and they carried out attacks against the police',4,,./0.png
+-72.305961,18.587184,57,West,Cite Soleil,2025/05/12 11:53:00.843-04,,1,,./0.png
+-72.199831,18.815635,58,Centre,Saut d'Eau,2025/05/12 12:50:00.601-04,,1,,./0.png
+-72.102928,18.833678,59,Centre,Mirebalais,2025/05/12 12:50:00.497-04,,1,,./0.png
+-72.311325,18.552744,60,West,Delmas,2025/05/12 13:20:00.116-04,,1,,./0.png
+-72.33884,18.530132,61,West,Port-au-Prince,2025/05/12 13:24:00.706-04,,1,,./0.png
+-72.305725,18.586603,62,West,Cite Soleil,2025/05/12 14:00:00.728-04,b'Gang members set tires on fire',4,,./0.png
+-72.343003,18.539527,64,West,Port-au-Prince,2025/05/12 17:07:00.990-04,,1,,./0.png
+-72.338141,18.534164,65,West,Port-au-Prince,2025/05/12 18:52:00-04,,1,,./0.png
+-72.101366,18.831403,66,Centre,Mirebalais,2025/05/13 06:59:00.662-04,,1,,./0.png
+-72.270779,18.587778,131,West,Tabarre,2025/05/23 10:57:00.718-04,,1,,./0.png
+-72.311505,18.552809,67,West,Delmas,2025/05/13 10:38:00.335-04,,1,,./0.png
+-72.305471,18.58594,68,West,Cite Soleil,2025/05/13 11:53:00.670-04,,1,,./0.png
+-72.311694,18.552241,69,West,Delmas,2025/05/13 12:05:00.260-04,,1,,./0.png
+-72.280413,18.595922,70,West,Tabarre,2025/05/13 12:06:00.166-04,,1,,./0.png
+-72.256402,18.6032916,71,West,Croix-Des-Bouquets,2025/05/13 17:31:00.724-04,b'Gang members shoot in the direction of the population to try to scare them away and intimidate them',4,,./0.png
+-72.339014,18.532482,72,West,Port-au-Prince,2025/05/13 11:55:00-04,,1,,./0.png
+-72.33624,18.541726,73,West,Port-au-Prince,2025/05/11 13:21:00-04,,1,,./0.png
+-72.305223,18.573948,74,West,Delmas,2025/05/14 13:22:00-04,,1,,./0.png
+-72.316861,18.545726,75,West,Delmas,2025/05/14 15:34:00-04,,1,,./0.png
+-72.286211,18.449666,76,West,Kenscoff,2025/05/14 18:21:00-04,,1,,./0.png
+-72.338902,18.542825,77,West,Port-au-Prince,2025/05/14 18:27:00-04,,1,,./0.png
+-72.336407,18.542043,78,West,Port-au-Prince,2025/05/14 21:27:00-04,,1,,./0.png
+-72.296844,18.539866,79,West,Delmas,2025/05/15 07:35:00-04,b'Members of the population burned tires in the middle of the road',6,,./0.png
+-72.303197,18.541506,80,West,Delmas,2025/05/15 11:50:00-04,b'Gathering for a demonstration',6,,./0.png
+-72.30566,18.586249,81,West,Cite Soleil,2025/05/15 13:30:00-04,b'Gang activity in progress',1,,./0.png
+-72.339935,18.532199,82,West,Port-au-Prince,2025/05/15 17:21:00-04,,1,,./0.png
+-72.340834,18.532571,83,West,Port-au-Prince,2025/05/16 07:53:00.373-04,,1,,./0.png
+-72.305832,18.586298,85,West,Cite Soleil,2025/05/16 10:13:00.971-04,,1,,./0.png
+-72.320303,18.547764,86,West,Port-au-Prince,2025/05/16 11:27:00.650-04,,1,,./0.png
+-72.336021,18.567215,87,West,Cite Soleil,2025/05/16 12:57:00-04,b'Gang members shoot at trucks leaving the terminal',1,,./0.png
+-72.305532,18.585309,88,West,Cite Soleil,2025/05/16 13:49:00-04,,1,,./0.png
+-72.305879,18.587323,89,West,Cite Soleil,2025/05/16 15:06:00-04,,1,,./0.png
+-72.345883,18.532783,91,West,Port-au-Prince,2025/05/16 17:53:00-04,,1,,./0.png
+-72.336383,18.54171,92,West,Port-au-Prince,2025/05/16 18:06:00-04,,1,,./0.png
+-72.260453,18.646465,93,West,Croix-Des-Bouquets,2025/05/17 08:02:00.701-04,b'Armed men on RN 3',4,,./0.png
+-72.30575,18.586652,94,West,Cite Soleil,2025/05/17 08:04:00.470-04,,1,,./0.png
+-72.33637,18.541685,95,West,Port-au-Prince,2025/05/17 08:46:00.677-04,,1,,./0.png
+-72.06633,18.532482,96,West,Ganthier,2025/05/17 10:20:00.857-04,b'Clash between gang and the police help by the population.',1,,./0.png
+-72.338068,18.534089,97,West,Port-au-Prince,2025/05/17 08:55:00.490-04,,1,,./0.png
+-72.333961,18.546021,98,West,Port-au-Prince,2025/05/16 15:50:00-04,,1,,./0.png
+-72.242759,18.614815,99,West,Croix-Des-Bouquets,2025/05/17 15:53:00-04,b'Gang activity in progress',1,,./0.png
+-72.338654,18.529863,100,West,Port-au-Prince,2025/05/18 12:31:00-04,,1,,./0.png
+-72.226737,18.578408,101,West,Croix-Des-Bouquets,2025/05/19 08:38:00.020-04,b'Armed men at Beudeton RN 3 / gang activity in progress.',4,,./0.png
+-72.338733,18.530191,102,West,Port-au-Prince,2025/05/19 12:33:00.418-04,,1,,./0.png
+-72.24501,18.567309,103,West,Tabarre,2025/05/19 14:33:00.177-04,b'Armed men in the area',4,,./0.png
+-72.338701,18.530329,104,West,Port-au-Prince,2025/05/19 18:37:00-04,,1,,./0.png
+-72.338611,18.530278,105,West,Port-au-Prince,2025/05/20 08:21:00-04,b'Clash between gang and armed civilians. ',1,,./0.png
+-72.104439,18.83371,106,Centre,Mirebalais,2025/05/20 11:42:00-04,b'Clash between gang and police helped the population with machetes.',1,,./0.png
+-72.333062,18.532087,107,West,Port-au-Prince,2025/05/20 13:07:00-04,,1,,./0.png
+-72.311638,18.552382,108,West,Delmas,2025/05/20 14:29:00-04,,1,,./0.png
+-72.34025,18.541962,109,West,Port-au-Prince,2025/05/20 14:29:00-04,,1,,./0.png
+-72.104301,18.83371,110,Centre,Mirebalais,2025/05/20 14:44:00-04,,1,,./0.png
+-72.336384,18.530635,111,West,Port-au-Prince,2025/05/20 14:58:00-04,b'Gang activity in progress',4,,./0.png
+-72.337327,18.537112,112,West,Port-au-Prince,2025/05/20 16:33:00-04,,1,,./0.png
+-72.337482,18.536811,113,West,Port-au-Prince,2025/05/20 17:07:00-04,,1,,./0.png
+-72.336491,18.541864,114,West,Port-au-Prince,2025/05/20 18:01:00-04,,1,,./0.png
+-72.103992,18.832476,115,Centre,Mirebalais,2025/05/20 20:10:00-04,b'Gang activity in progress',1,,./0.png
+-72.341984,18.535924,116,West,Port-au-Prince,2025/05/21 12:18:00.699-04,,1,,./0.png
+-72.253098,18.523643,117,West,Petion-Ville,2025/05/21 13:43:00.022-04,,1,,./0.png
+-72.316059,18.549481,118,West,Delmas,2025/05/21 17:25:00.136-04,,1,,./0.png
+-72.334379,18.532937,119,West,Port-au-Prince,2025/05/22 07:11:00.224-04,,1,,./0.png
+-72.335235,18.532345,120,West,Port-au-Prince,2025/05/22 11:07:00.885-04,,1,,./0.png
+-72.254385,18.522716,121,West,Petion-Ville,2025/05/22 11:36:00.901-04,b'Police operation on going',1,,./0.png
+-72.255896,18.524628,122,West,Petion-Ville,2025/05/22 11:45:00.867-04,b'Police operation on going',1,,./0.png
+-72.254351,18.524636,123,West,Petion-Ville,2025/05/22 13:13:00.505-04,b'Police operation on going',1,,./0.png
+-72.333087,18.532235,124,West,Port-au-Prince,2025/05/22 17:34:00.548-04,,1,,./0.png
+-72.342104,18.54468,125,West,Port-au-Prince,2025/05/22 13:05:00.281-04,,1,,./0.png
+-72.336581,18.54195,126,West,Port-au-Prince,2025/05/22 18:17:00-04,,1,,./0.png
+-72.336431,18.541826,127,West,Port-au-Prince,2025/05/22 19:25:00-04,,1,,./0.png
+-72.335482,18.531981,128,West,Port-au-Prince,2025/05/23 07:04:00.365-04,,1,,./0.png
+-72.30521,18.582962,129,West,Tabarre,2025/05/23 09:53:00.100-04,,1,,./0.png
+-72.305501,18.586037,130,West,Cite Soleil,2025/05/23 10:56:00.091-04,,1,,./0.png
+-72.338669,18.530248,132,West,Port-au-Prince,2025/05/23 12:14:00.132-04,,1,,./0.png
+-72.10461,18.832963,133,Centre,Mirebalais,2025/05/23 14:01:00.969-04,,1,,./0.png
+-72.33898,18.529894,134,West,Port-au-Prince,2025/05/23 17:58:00-04,,1,,./0.png
+-72.3387,18.52998,135,West,Port-au-Prince,2025/05/24 08:20:00-04,,1,,./0.png
+-72.3398,18.53574,136,West,Port-au-Prince,2025/05/24 11:55:00-04,,1,,./0.png
+-72.0669,18.53305,137,West,Ganthier,2025/05/24 12:11:00-04,b'Armed men /gang activity in progress.',4,,./0.png
+-71.9836,18.51423,138,West,Ganthier,2025/05/24 12:11:00-04,b'Armed men  / gang activity in progress.',4,,./0.png
+-72.3398,18.53578,139,West,Port-au-Prince,2025/05/24 13:38:00-04,,1,,./0.png
+-72.3357,18.53181,140,West,Port-au-Prince,2025/05/24 17:00:00-04,,1,,./0.png
+-72.3116,18.5523,141,West,Delmas,2025/05/24 18:00:00-04,,1,,./0.png
+-72.3162,18.54976,142,West,Delmas,2025/05/24 18:28:00-04,,1,,./0.png
+-72.3353,18.53196,143,West,Port-au-Prince,2025/05/24 20:03:00-04,,1,,./0.png
+-72.324,18.5306,144,West,Port-au-Prince,2025/05/24 21:10:00-04,,1,,./0.png
+-72.3355,18.53214,145,West,Port-au-Prince,2025/05/25 07:53:00.923-04,,1,,./0.png
+-72.3388,18.53012,146,West,Port-au-Prince,2025/05/25 11:03:00.964-04,,1,,./0.png
+-72.2545,18.52312,147,West,Petion-Ville,2025/05/25 11:51:00.494-04,,1,,./0.png
+-72.353,18.53994,148,West,Port-au-Prince,2025/05/25 12:17:00.530-04,,1,,./0.png
+-72.3387,18.53021,149,West,Port-au-Prince,2025/05/25 18:20:00-04,,1,,./0.png
+-72.3385,18.53259,152,West,Port-au-Prince,2025/05/26 12:38:00.295-04,,1,,./0.png
+-72.2266,18.57841,153,West,Croix-Des-Bouquets,2025/05/26 14:57:00.188-04,b'Armed men and gang activity',4,,./0.png
+-72.3059,18.58724,154,West,Cite Soleil,2025/05/26 16:16:00.608-04,b'Armed men / gang activity in progress.',4,,./0.png
+-72.2272,18.52329,155,West,Petion-Ville,2025/05/26 17:08:00.573-04,,1,,./0.png
+-72.3361,18.54125,156,West,Port-au-Prince,2025/05/26 18:01:39.495-04,,1,,./0.png
+-72.3386,18.53018,158,West,Port-au-Prince,2025/05/27 07:38:00.232-04,b'Clash between gang and armed population.',1,,./0.png
+-72.3302,18.53504,159,West,Port-au-Prince,2025/05/27 07:48:00.208-04,,1,,./0.png
+-72.3387,18.53028,161,West,Port-au-Prince,2025/05/27 12:07:00.460-04,b'Clash between gang and armed population.',1,,./0.png
+-72.2275,18.57723,162,West,Croix-Des-Bouquets,2025/05/27 12:14:00.987-04,b'Armed men / gang activity in progress.',4,,./0.png
+-72.3169,18.54565,163,West,Port-au-Prince,2025/05/27 15:27:00.326-04,,1,,./0.png
+-72.3199,18.56903,164,West,Delmas,2025/05/27 19:38:00-04,,1,,./0.png
+-72.2979,18.55632,165,West,Delmas,2025/05/27 19:49:00-04,,1,,./0.png
+-72.3295,18.54711,166,West,Port-au-Prince,2025/05/27 20:46:00-04,,1,,./0.png
+-72.3339,18.54648,167,West,Port-au-Prince,2025/05/27 21:57:00-04,,1,,./0.png
+-72.3193,18.56801,168,West,Delmas,2025/05/28 07:06:00.002-04,,1,,./0.png
+-72.3365,18.54162,170,West,Port-au-Prince,2025/05/28 10:57:00.336-04,,1,,./0.png
+-72.2877,18.60495,171,West,Croix-Des-Bouquets,2025/05/28 11:02:00.801-04,,1,,./0.png
+-72.3387,18.53028,172,West,Port-au-Prince,2025/05/28 12:13:00.370-04,,1,,./0.png
+-72.3331,18.53223,173,West,Port-au-Prince,2025/05/28 12:24:00.383-04,,1,,./0.png
+-72.2548,18.5249,177,West,Petion-Ville,2025/05/29 07:43:00-04,,1,,./0.png
+-72.2872,18.48592,178,West,Petion-Ville,2025/05/29 07:44:00-04,,1,,./0.png
+-72.3126,18.58031,179,West,Delmas,2025/05/29 11:14:00-04,b'More than twenty armed / gang activity in progress.',4,,./0.png
+-72.3365,18.54212,180,West,Port-au-Prince,2025/05/29 11:58:00-04,,1,,./0.png
+-72.3369,18.54204,181,West,Port-au-Prince,2025/05/29 17:48:00-04,,1,,./0.png
+-72.2627,18.53763,182,West,Petion-Ville,2025/05/29 18:59:00-04,,1,,./0.png
+-72.2632,18.57655,183,West,Tabarre,2025/05/29 20:04:00-04,,1,,./0.png
+-72.2344,18.52171,184,West,Petion-Ville,2025/05/29 20:05:00-04,,1,,./0.png
+-72.2549,18.52417,185,West,Petion-Ville,2025/05/29 20:19:00-04,,1,,./0.png
+-72.3387,18.5303,186,West,Port-au-Prince,2025/05/29 21:26:00-04,,1,,./0.png
+-72.3387,18.53022,187,West,Port-au-Prince,2025/05/30 07:54:00.043-04,,1,,./0.png
+-72.3387,18.53013,188,West,Port-au-Prince,2025/05/30 15:23:00-04,,1,,./0.png
+-72.3116,18.55242,189,West,Delmas,2025/05/30 16:09:00-04,,1,,./0.png
+-72.3387,18.5302,190,West,Port-au-Prince,2025/05/30 18:10:00-04,,1,,./0.png
+-72.338701,18.530264,191,West,Port-au-Prince,2025/05/31 07:36:00-04,,1,,./0.png
+-72.338104,18.534018,192,West,Port-au-Prince,2025/05/31 11:14:00-04,,1,,./0.png
+-72.066124,18.53197,193,West,Ganthier,2025/05/31 12:59:00-04,b'Armed men set up checkpoints on RN8 in the village of Ganthier',2,,./0.png
+-71.983692,18.515102,194,West,Ganthier,2025/05/31 12:59:00-04,b'Armed men set up checkpoints on RN8 in Fond Parisien.',2,,./0.png
+-72.338619,18.529943,195,West,Port-au-Prince,2025/05/31 18:33:00-04,,1,,./0.png
+-72.338109,18.534097,196,West,Port-au-Prince,2025/05/31 20:53:00-04,,1,,./0.png
+-72.338699,18.530188,197,West,Port-au-Prince,2025/06/01 08:02:00.235-04,,1,,./0.png
+-72.273628,18.528086,198,West,Petion-Ville,2025/06/01 08:10:00.532-04,,1,,./0.png
+-72.335325,18.532084,199,West,Port-au-Prince,2025/06/01 12:52:00.297-04,,1,,./0.png
+-72.337182,18.551838,201,West,Port-au-Prince,2025/06/01 16:04:00.991-04,b'Armed men in the area',4,,./0.png
+-72.33586,18.538474,202,West,Port-au-Prince,2025/06/01 17:12:00.153-04,b'Burning tires on rue Capois',4,,./0.png
+-72.267092,18.507606,203,West,Petion-Ville,2025/06/01 17:39:00.350-04,,1,,./0.png
+-72.336216,18.541523,204,West,Port-au-Prince,2025/06/01 19:59:00-04,,1,,./0.png
+-72.332793,18.530581,205,West,Port-au-Prince,2025/06/01 20:13:00-04,,1,,./0.png
+-72.33886,18.52978,206,West,Port-au-Prince,2025/06/02 11:59:00.203-04,,1,,./0.png
+-72.254612,18.52438,207,West,Petion-Ville,2025/06/02 15:15:00-04,,1,,./0.png
+-72.338825,18.530317,208,West,Port-au-Prince,2025/06/02 18:00:00-04,,1,,./0.png
+-72.338684,18.530093,209,West,Port-au-Prince,2025/06/02 20:04:00-04,,1,,./0.png
+-72.338727,18.530182,210,West,Port-au-Prince,2025/06/03 07:46:00.276-04,,1,,./0.png
+-72.317338,18.566952,211,West,Delmas,2025/06/03 08:02:00.282-04,,1,,./0.png
+-72.338714,18.530105,212,West,Port-au-Prince,2025/06/03 11:27:00.905-04,,1,,./0.png
+-72.228584,18.578057,213,West,Croix-Des-Bouquets,2025/06/03 11:45:00.531-04,,1,,./0.png
+-72.304459,18.583544,214,West,Cite Soleil,2025/06/03 14:33:00.969-04,b'Armed men near to Radio Komes',4,,./0.png
+-72.31996,18.548252,216,West,Port-au-Prince,2025/06/03 16:13:00.263-04,,1,,./0.png
+-72.338703,18.530205,217,West,Port-au-Prince,2025/06/03 17:38:00.553-04,,1,,./0.png
+-72.311789,18.552643,218,West,Delmas,2025/06/03 17:41:00.352-04,,1,,./0.png
+-72.335276,18.53216,219,West,Port-au-Prince,2025/06/03 19:14:00-04,,1,,./0.png
+-72.336504,18.541698,220,West,Port-au-Prince,2025/06/03 20:28:00-04,,1,,./0.png
+-72.338585,18.530098,221,West,Port-au-Prince,2025/06/04 07:48:00.063-04,,1,,./0.png
+-72.305141,18.583153,222,West,Tabarre,2025/06/04 13:27:00.615-04,b'Armed men on RN1',4,,./0.png
+-72.085178,18.82869,223,Centre,Mirebalais,2025/06/04 14:03:00.383-04,,1,,./0.png
+-72.304716,18.583418,224,West,Cite Soleil,2025/06/04 14:43:00.733-04,,1,,./0.png
+-72.335117,18.532046,225,West,Port-au-Prince,2025/06/04 17:18:00.856-04,,1,,./0.png
+-72.336521,18.533498,226,West,Port-au-Prince,2025/06/04 17:18:00.110-04,,1,,./0.png
+-72.338711,18.530115,227,West,Port-au-Prince,2025/06/04 18:59:00-04,,1,,./0.png
+-72.227365,18.581139,228,West,Croix-Des-Bouquets,2025/06/04 19:57:00-04,b'Armed men in the Dep\xc3\xa9os district towards Morne Cabrite',4,,./0.png
+-72.338688,18.530125,229,West,Port-au-Prince,2025/06/05 07:58:00.735-04,,1,,./0.png
+-72.33869,18.530058,232,West,Port-au-Prince,2025/06/05 09:34:00.642-04,,1,,./0.png
+-72.30495,18.583195,233,West,Tabarre,2025/06/05 10:26:00.419-04,b'Armed men on RN1',4,,./0.png
+-72.227623,18.576749,234,West,Croix-Des-Bouquets,2025/06/05 10:27:00.382-04,b'Armed men carrefour Beudet',4,,./0.png
+-72.338714,18.530008,236,West,Port-au-Prince,2025/06/05 13:04:00.852-04,,1,,./0.png
+-72.332954,18.532787,237,West,Port-au-Prince,2025/06/05 13:05:00.052-04,,1,,./0.png
+-72.338774,18.530041,239,West,Port-au-Prince,2025/06/05 19:54:00-04,,1,,./0.png
+-72.338701,18.530121,240,West,Port-au-Prince,2025/06/06 07:53:00-04,,1,,./0.png
+-72.33869,18.530219,241,West,Port-au-Prince,2025/06/06 12:08:00-04,,1,,./0.png
+-72.311587,18.568334,243,West,Delmas,2025/06/06 13:54:00-04,,1,,./0.png
+-72.229546,18.580476,244,West,Croix-Des-Bouquets,2025/06/06 15:03:00-04,,1,,./0.png
+-72.239601,18.583286,245,West,Croix-Des-Bouquets,2025/06/06 21:58:00-04,b'Clash between gangs',1,,./0.png
+-72.239558,18.583423,246,West,Croix-Des-Bouquets,2025/06/07 08:10:00-04,b'Clash between gangs',1,,./0.png
+-72.233129,18.593109,247,West,Croix-Des-Bouquets,2025/06/07 08:21:00-04,b'Clash between gangs.',1,,./0.png
+-72.275208,18.618705,249,West,Croix-Des-Bouquets,2025/06/07 09:34:00-04,b'The entire area of Plaine de-cul-de-sac was the scene of fighting between gangs for a large part of the night and day.',4,,./0.png
+-72.274993,18.619944,251,West,Croix-Des-Bouquets,2025/06/07 12:25:00-04,b'Gang activity in progress.',1,,./0.png
+-72.346593,18.536314,252,West,Port-au-Prince,2025/06/07 13:37:00-04,b'Clash between gang and police. ',1,,./0.png
+-72.233837,18.59279,253,West,Croix-Des-Bouquets,2025/06/07 14:34:00-04,,1,,./0.png
+-72.275276,18.618419,254,West,Croix-Des-Bouquets,2025/06/07 15:58:00-04,b'Clash between gangs.',1,,./0.png
+-72.233442,18.592705,255,West,Croix-Des-Bouquets,2025/06/07 19:26:00-04,b'Clash between gang and police',1,,./0.png
+-72.301592,18.547105,256,West,Delmas,2025/06/07 22:21:00-04,b'Gang activity in progress.',1,,./0.png
+-72.338669,18.530099,257,West,Port-au-Prince,2025/06/08 07:51:00.164-04,,1,,./0.png
+-72.228138,18.577552,258,West,Croix-Des-Bouquets,2025/06/08 07:57:00.419-04,b'Armed men in the area',4,,./0.png
+-72.336542,18.541805,259,West,Port-au-Prince,2025/06/08 13:33:00-04,,1,,./0.png
+-72.239545,18.582804,260,West,Croix-Des-Bouquets,2025/06/08 13:42:00-04,,1,,./0.png
+-72.337098,18.538166,261,West,Port-au-Prince,2025/06/08 14:47:00-04,,1,,./0.png
+-72.338711,18.530201,262,West,Port-au-Prince,2025/06/08 17:23:00-04,,1,,./0.png
+-72.33707,18.538245,263,West,Port-au-Prince,2025/06/08 17:23:00-04,,1,,./0.png
+-72.103426,18.833464,264,Centre,Mirebalais,2025/06/08 17:51:00-04,,1,,./0.png
+-72.336092,18.542129,265,West,Port-au-Prince,2025/06/08 19:45:00-04,,1,,./0.png
+-72.239601,18.583084,266,West,Croix-Des-Bouquets,2025/06/09 07:49:00.490-04,,1,,./0.png
+-72.338679,18.530195,267,West,Port-au-Prince,2025/06/09 07:51:00.598-04,,1,,./0.png
+-72.292477,18.561366,268,West,Delmas,2025/06/09 08:14:00.207-04,b'Many members of the population gathered in front of the Delmas 33 police station to demonstrate against the transfer of the police officer.',7,,./0.png
+-72.316797,18.545738,269,West,Delmas,2025/06/09 11:36:00.828-04,,1,,./0.png
+-72.338666,18.530117,270,West,Port-au-Prince,2025/06/09 11:41:00.348-04,,1,,./0.png
+-72.283868,18.568032,271,West,Delmas,2025/06/09 11:49:00.300-04,b'Confrontation between the police and the population who have been demonstrating since this morning',6,,./0.png
+-72.338293,18.537054,272,West,Port-au-Prince,2025/06/09 12:05:00.803-04,b'Several combat zones between Carrefour Feuille and the Champ de Mars area between gang members and police',1,,./0.png
+-72.339909,18.533777,273,West,Port-au-Prince,2025/06/09 14:24:00.468-04,,1,,./0.png
+-72.340415,18.531914,274,West,Port-au-Prince,2025/06/09 15:27:00.096-04,,1,,./0.png
+-72.338038,18.534078,275,West,Port-au-Prince,2025/06/09 15:27:00.777-04,,1,,./0.png
+-72.337714,18.538726,276,West,Port-au-Prince,2025/06/09 15:58:00.432-04,b'Several combat zones between Carrefour Feuille and the Champ de Mars area between gang members and police',1,,./0.png
+-72.311565,18.552478,277,West,Delmas,2025/06/09 16:51:00.437-04,,1,,./0.png
+-72.336988,18.538154,278,West,Port-au-Prince,2025/06/09 18:27:00-04,,1,,./0.png
+-72.311608,18.552573,279,West,Delmas,2025/06/09 19:36:00-04,,1,,./0.png
+-72.336628,18.541786,280,West,Port-au-Prince,2025/06/09 19:58:00-04,,1,,./0.png
+-72.311668,18.552667,281,West,Delmas,2025/06/09 20:04:00-04,,1,,./0.png
+-72.338628,18.530203,282,West,Port-au-Prince,2025/06/10 07:50:00.808-04,,1,,./0.png
+-72.318001,18.539353,283,West,Port-au-Prince,2025/06/10 11:07:00.346-04,"b'The population blocked Delmas 32 / control, search and filtering of all persons who wish to pass'",7,,./0.png
+-72.243279,18.609037,284,West,Croix-Des-Bouquets,2025/06/10 13:14:00.045-04,b'Armed men in Santo 17 & 25 area',4,,./0.png
+-72.316192,18.549733,285,West,Delmas,2025/06/10 16:02:00.678-04,,1,,./0.png
+-72.316737,18.545636,286,West,Delmas,2025/06/10 16:02:00.097-04,,1,,./0.png
+-72.33872,18.530148,287,West,Port-au-Prince,2025/06/10 18:21:00-04,,1,,./0.png
+-72.316177,18.549651,288,West,Delmas,2025/06/10 18:41:00-04,,1,,./0.png
+-72.338078,18.534099,289,West,Port-au-Prince,2025/06/10 19:48:00-04,,1,,./0.png
+-72.338143,18.534062,290,West,Port-au-Prince,2025/06/10 20:44:00-04,,1,,./0.png
+-72.334671,18.532882,291,West,Port-au-Prince,2025/06/11 07:04:00.030-04,,1,,./0.png
+-72.338645,18.53032,292,West,Port-au-Prince,2025/06/11 08:53:00.954-04,,1,,./0.png
+-72.31678,18.545725,293,West,Delmas,2025/06/11 11:52:00.029-04,,1,,./0.png
+-72.286511,18.450195,294,West,Kenscoff,2025/06/11 12:29:00.950-04,b'Armed gang members set fire to several houses during the afternoon',4,,./0.png
+-72.317033,18.547914,295,West,Delmas,2025/06/11 13:39:00.024-04,"b'The gang members attacked at the same time Christ  Roi, Nazon, Delmas 30'",1,,./0.png
+-72.31802,18.539645,296,West,Port-au-Prince,2025/06/11 13:59:00.506-04,b'Population and police blocked Delmas 32 to prevent gang members from passing through',7,,./0.png
+-72.311625,18.552595,297,West,Delmas,2025/06/11 16:03:00.137-04,,1,,./0.png
+-72.254711,18.52322,298,West,Petion-Ville,2025/06/11 18:27:00.282-04,b'Clash between gang and police.',1,,./0.png
+-72.311694,18.551595,299,West,Delmas,2025/06/11 18:40:00.128-04,b'Ongoing gang activities with suspected kidnapping',5,,./0.png
+-72.338696,18.529969,300,West,Port-au-Prince,2025/06/11 19:33:00-04,,1,,./0.png
+-72.335579,18.532001,301,West,Port-au-Prince,2025/06/12 12:08:00-04,,1,,./0.png
+-72.338954,18.531912,302,West,Port-au-Prince,2025/06/12 15:58:00-04,"b'Lots shooting in the area of Carrefour Feuille, avenue Christophe, la rue Nicolas, ruelle Alerte '",1,,./0.png
+-72.338834,18.529749,303,West,Port-au-Prince,2025/06/12 17:54:00-04,,1,,./0.png
+-72.338739,18.5302,304,West,Port-au-Prince,2025/06/12 20:21:00-04,,1,,./0.png
+-72.337802,18.534045,305,West,Port-au-Prince,2025/06/12 20:29:00-04,,1,,./0.png
+-72.338669,18.53014,306,West,Port-au-Prince,2025/06/13 06:03:00.506-04,,1,,./0.png
+-72.337403,18.536343,307,West,Port-au-Prince,2025/06/13 06:13:00.809-04,,1,,./0.png
+-72.338611,18.530278,319,West,Port-au-Prince,2025/06/15 18:33:00.784-04,,1,,./0.png
+-72.101435,18.833856,320,Centre,Mirebalais,2025/06/15 13:54:00.513-04,b'Armed men in Mirebalais center',4,,./0.png
+-72.316434,18.550571,321,West,Delmas,2025/06/15 15:32:00.212-04,,1,,./0.png
+-72.340233,18.53435,322,West,Port-au-Prince,2025/06/15 20:47:00-04,"b'Lots of shooting  in area of carrefour Feuilles, Marche Salomon,  Portail Leogane.'",1,,./0.png
+-72.094405,18.835229,323,Centre,Mirebalais,2025/06/16 08:10:00.937-04,,1,,./0.png
+-72.226729,18.578341,324,West,Croix-Des-Bouquets,2025/06/16 12:32:00.164-04,b'Armed men in the area',4,,./0.png
+-72.316144,18.549912,325,West,Delmas,2025/06/16 16:28:00.799-04,,1,,./0.png
+-72.31158,18.552302,326,West,Delmas,2025/06/16 16:28:00.992-04,,1,,./0.png
+-72.248617,18.581197,327,West,Tabarre,2025/06/16 16:30:00.860-04,,1,,./0.png
+-72.319187,18.56671,328,West,Delmas,2025/06/16 16:44:00.723-04,,1,,./0.png
+-72.338074,18.534051,329,West,Port-au-Prince,2025/06/16 19:37:00-04,,1,,./0.png
+-72.338628,18.530103,330,West,Port-au-Prince,2025/06/16 19:38:00-04,,1,,./0.png
+-72.301577,18.54718,331,West,Delmas,2025/06/16 19:45:00-04,,1,,./0.png
+-72.338817,18.52991,332,West,Port-au-Prince,2025/06/17 07:12:00.579-04,,1,,./0.png
+-72.33869,18.530182,333,West,Port-au-Prince,2025/06/17 07:50:00.612-04,,1,,./0.png
+-72.208852,18.628149,334,West,Croix-Des-Bouquets,2025/06/17 08:09:00.350-04,"b'Armed men set up two checkpoints, the first in the area of Village Despinos, the other in Carrefour Thomaseau on RN3 towards Mirebalais '",2,,./0.png
+-72.095195,18.834994,335,Centre,Mirebalais,2025/06/17 15:25:00.023-04,,1,,./0.png
+-72.188948,18.655849,336,West,Thomazeau,2025/06/17 08:09:00.507-04,"b'Armed men set up two checkpoints, the first in the area of Village Despinos, the other in Carrefour Thomaseau on RN3 towards Mirebalais '",2,,./0.png
+-72.094324,18.835209,337,Centre,Mirebalais,2025/06/17 16:52:00.083-04,b'Armed men at the Carrefour Peligre on the roundabout ',4,,./0.png
+-72.338619,18.529988,338,West,Port-au-Prince,2025/06/17 17:04:00.407-04,,1,,./0.png
+-72.338643,18.530107,339,West,Port-au-Prince,2025/06/18 07:08:00.317-04,,1,,./0.png
+-72.338654,18.5301,341,West,Port-au-Prince,2025/06/18 19:52:00.961-04,,1,,./0.png
+-72.33795,18.534074,342,West,Port-au-Prince,2025/06/19 07:49:00-04,,1,,./0.png
+-72.338679,18.530265,343,West,Port-au-Prince,2025/06/19 10:45:00-04,,1,,./0.png
+-72.338121,18.541007,344,West,Port-au-Prince,2025/06/19 15:41:00-04,,1,,./0.png
+-72.311995,18.552129,345,West,Delmas,2025/06/19 15:49:00-04,,1,,./0.png
+-72.337493,18.536314,346,West,Port-au-Prince,2025/06/19 17:35:00-04,,1,,./0.png
+-72.335604,18.531963,347,West,Port-au-Prince,2025/06/19 20:02:00-04,,1,,./0.png
+-72.341967,18.534864,348,West,Port-au-Prince,2025/06/19 15:41:00-04,,1,,./0.png
+-72.313196,18.565652,349,West,Delmas,2025/06/19 15:37:00-04,,1,,./0.png
+-72.33628,18.537693,352,West,Port-au-Prince,2025/06/20 17:38:00.597-04,"b'Armed men in area of rue Romain, ruelle Chavannes, rue Capois '",4,,./0.png
+-72.336315,18.541433,353,West,Port-au-Prince,2025/06/20 18:17:00.358-04,,1,,./0.png
+-72.335903,18.538687,354,West,Port-au-Prince,2025/06/20 18:30:00.683-04,b'Lots of shooting  in rue Magloire Ambroise and Chavannes area',1,,./0.png
+-72.336207,18.541602,355,West,Port-au-Prince,2025/06/20 19:49:00.536-04,,1,,./0.png
+-72.356712,18.531662,358,West,Port-au-Prince,2025/06/21 12:46:00-04,,1,,./0.png
+-72.324268,18.53039,365,West,Port-au-Prince,2025/06/22 12:00:00-04,b'Following the disposition of a police officer his other police colleagues search for the body',1,,./0.png
+-72.23860502,18.58442653,730,West,Croix-Des-Bouquets,2025/08/10 10:50:00-04,b'Clash between gangs',1,[ 1 ],./0.png
+-72.2234210371971,18.6044437816382,752,West,Croix-Des-Bouquets,2025/08/13 08:30:00-04,b'Presence of many armed men',4,[ 1 ],./0.png
+-72.063326,18.532945,782,West,Ganthier,2025/08/16 09:14:00-04,b'Armed men set up checkpoints at Ganthier  on the RN8',4,[ 1 ],./0.png
+-71.992241,18.520687,783,West,Ganthier,2025/08/16 09:14:00-04,b'Armed men set up checkpoints at Fonds Parisiens on the RN8',4,[ 1 ],./0.png
+-72.230476,18.581053,802,West,Croix-Des-Bouquets,2025/08/19 08:08:00.687-04,b'Armed men in area',4,[ 1 ],./0.png
+-72.232018,18.582261,821,West,Croix-Des-Bouquets,2025/08/21 20:34:00-04,b'Armed me in area',4,[ 1 ],./0.png
+-72.22728,18.580587,823,West,Croix-Des-Bouquets,2025/08/22 08:58:00-04,b'Armed men in area',4,[ 1 ],./0.png
+-72.208569,18.628833,828,West,Croix-Des-Bouquets,2025/08/23 07:23:00-04,b'Armed men in area',4,[ 1 ],./0.png
+-72.221546,18.580122,846,West,Croix-Des-Bouquets,2025/08/25 12:14:00.490-04,b'Amred men in area',4,[ 1 ],./0.png
+-72.208453,18.628295,848,West,Croix-Des-Bouquets,2025/08/25 20:10:00-04,b'Armed men on RN3 at village Despino level.',4,[ 1 ],./0.png
+-72.226657,18.57842,854,West,Croix-Des-Bouquets,2025/08/26 12:24:00.260-04,b'Armed men in area',4,[ 1 ],./0.png
+-72.226657,18.578486,864,West,Croix-Des-Bouquets,2025/08/28 12:06:00.581-04,b'Armed men in area.',4,[ 1 ],./0.png
+-72.22122,18.580355,910,West,Croix-Des-Bouquets,2025/09/06 08:19:00.277-04,b'Armed men in area',4,[ 1 ],./0.png
+-72.2214,18.579822,912,West,Croix-Des-Bouquets,2025/09/06 12:16:00.122-04,b'Armed men in area',4,[ 1 ],./0.png
+-72.227052,18.578506,931,West,Croix-Des-Bouquets,2025/09/09 07:50:00.277-04,b'Armed men in area',4,[ 1 ],./0.png
+-72.208697,18.628397,941,West,Croix-Des-Bouquets,2025/09/10 08:05:00.968-04,b'Armed men in area.',4,[ 1 ],./0.png
+-72.063416,18.532892,1075,West,Ganthier,2025/09/27 08:15:00.514-04,b'Gang members set up a checkpoint and toll booth',2,[ 1 ],./0.png
+-71.983606,18.514158,1076,West,Ganthier,2025/09/27 08:15:00.579-04,b'Gang members set up a checkpoint and toll booth',2,[ 1 ],./0.png
+-72.230474,18.581166,1077,West,Croix-Des-Bouquets,2025/09/27 08:16:00.409-04,b'Gang members set up a checkpoint and toll booth',2,[ 1 ],./0.png
+-72.226315,18.577624,1078,West,Croix-Des-Bouquets,2025/09/27 08:16:00.258-04,b'Gang members set up a checkpoint and toll booth',2,[ 1 ],./0.png
+-72.3353694694379,18.5327954372918,1084,West,Port-au-Prince,2025/09/27 12:43:00.363-04,"b'Armed men on RN3 at Beudet, Meyer and Village Despinos / Gang activity in progress.'",4,[ 1 ],./0.png
+-72.22155,18.580008,1098,West,Croix-Des-Bouquets,2025/09/29 12:09:00.172-04,b'Armed men in area',4,[ 1 ],./0.png
+-72.230449,18.581138,1123,West,Croix-Des-Bouquets,2025/10/04 08:02:00-04,b'Armed men in area',4,[ 1 ],./0.png
+-71.992258,18.520875,1124,West,Ganthier,2025/10/04 08:08:00-04,b'Armed men set up a toll and checkpoint at the entrance to Fond-Parisien',2,[ 1 ],./0.png
+-72.239609,18.583401,1137,West,Croix-Des-Bouquets,2025/10/06 12:13:00.541-04,b'Clash between gang and police.',1,[ 1 ],./0.png
+-72.239624,18.583334,1141,West,Croix-Des-Bouquets,2025/10/06 20:17:00-04,b'Clash between gang and police.',1,[ 1 ],./0.png
+-72.240399,18.621592,1152,West,Croix-Des-Bouquets,2025/10/08 11:58:00-04,b'Clash between gang and police.',1,[ 1 ],./0.png
+-72.227256,18.580768,1166,West,Croix-Des-Bouquets,2025/10/10 12:03:00.179-04,b'Armed men in area',4,[ 1 ],./0.png
+-72.22722,18.58308,1174,West,Croix-Des-Bouquets,2025/10/11 08:10:00.078-04,b'Armed men at Meyer and Beudet  area',4,[ 1 ],./0.png
+-72.069937,18.533537,1175,West,Ganthier,2025/10/11 08:12:00.919-04,b'Armed men set up a checkpoint at the entrance to the city of Ganthier',2,[ 1 ],./0.png
+-72.189525,18.655538,1185,West,Thomazeau,2025/10/13 08:23:41.452-04,b'Armed men in area',4,[ 1 ],./0.png
+-72.338902,18.529806,492,West,Port-au-Prince,2025/07/11 17:36:00.776-04,,1,[ 4 ],./0.png
+-72.261286,18.630866,1073,West,Croix-Des-Bouquets,2025/09/26 17:38:00.978-04,b'Clash between gangs.',1,"[ 1, 2 ]",./0.png
+-72.281396,18.606257,1074,West,Croix-Des-Bouquets,2025/09/26 17:39:00.560-04,b'Clash between gangs.',1,"[ 1, 2 ]",./0.png
+-72.239659,18.583409,1186,West,Croix-Des-Bouquets,2025/10/13 12:04:00.140-04,b'Clash between gangs.',1,"[ 1, 2 ]",./0.png
+-72.239593,18.583391,1188,West,Croix-Des-Bouquets,2025/10/13 13:31:00.295-04,b'Clash between gangs.',1,"[ 1, 2 ]",./0.png
+-72.239579,18.583348,1189,West,Croix-Des-Bouquets,2025/10/13 13:41:00.890-04,b'Police intervention',1,"[ 1, 2 ]",./0.png
+-72.469597,18.770548,943,West,Cabaret,2025/09/10 11:31:00.820-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.331963,18.533459,1269,West,Port-au-Prince,2025/10/24 12:20:00.496-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.330107,18.535122,1271,West,Port-au-Prince,2025/10/24 13:56:00.256-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.33162,18.533016,1272,West,Port-au-Prince,2025/10/24 15:13:00.242-04,"b'Lots of shooting in rue 4, 5, 6 area / Clash between gang and police.'",1,[ 4 ],./0.png
+-72.339674,18.535736,1274,West,Port-au-Prince,2025/10/24 17:16:00.079-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.339686,18.535798,1278,West,Port-au-Prince,2025/10/25 10:17:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338677,18.530255,1279,West,Port-au-Prince,2025/10/25 14:16:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.339566,18.535812,1281,West,Port-au-Prince,2025/10/25 19:21:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338592,18.530328,1282,West,Port-au-Prince,2025/10/25 21:08:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.339488,18.535922,1283,West,Port-au-Prince,2025/10/26 16:42:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.340031,18.542725,1284,West,Port-au-Prince,2025/10/26 16:42:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.340829,18.536066,1286,West,Port-au-Prince,2025/10/27 12:11:00.036-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.346524,18.536407,1288,West,Port-au-Prince,2025/10/27 14:46:00.534-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338937,18.530004,367,West,Port-au-Prince,2025/06/22 12:42:00-04,,1,[ 4 ],./0.png
+-72.337506,18.536448,364,West,Port-au-Prince,2025/06/22 11:48:00-04,,1,[ 4 ],./0.png
+-72.338701,18.530143,368,West,Port-au-Prince,2025/06/22 19:55:00-04,,1,[ 4 ],./0.png
+-72.336499,18.541633,369,West,Port-au-Prince,2025/06/22 19:55:00-04,,1,[ 4 ],./0.png
+-72.345971,18.532676,373,West,Port-au-Prince,2025/06/23 16:29:00-04,,1,[ 4 ],./0.png
+-72.338662,18.530221,374,West,Port-au-Prince,2025/06/23 17:40:00-04,,1,[ 4 ],./0.png
+-72.345943,18.532811,375,West,Port-au-Prince,2025/06/23 18:23:00-04,,1,[ 4 ],./0.png
+-72.343806,18.539598,379,West,Port-au-Prince,2025/06/23 20:06:00-04,,1,[ 4 ],./0.png
+-72.338995,18.535059,383,West,Port-au-Prince,2025/06/24 16:24:00.887-04,b'Shooting  at rue Fleur Ducheine and Marche Salomon area ',1,[ 4 ],./0.png
+-72.345486,18.532579,426,West,Port-au-Prince,2025/07/02 16:10:00-04,"b'Lots shooting in rue Magloire Ambroise, Ruelle Alerte, rue Cameau area'",1,[ 4 ],./0.png
+-72.338709,18.530152,427,West,Port-au-Prince,2025/07/02 18:30:00-04,,1,[ 4 ],./0.png
+-72.338694,18.530183,428,West,Port-au-Prince,2025/07/02 20:24:00-04,,1,[ 4 ],./0.png
+-72.338677,18.530142,429,West,Port-au-Prince,2025/07/03 07:05:00.745-04,,1,[ 4 ],./0.png
+-72.338615,18.530117,433,West,Port-au-Prince,2025/07/03 12:45:00-04,,1,[ 4 ],./0.png
+-72.291206,18.533739,436,West,Delmas,2025/07/04 07:17:00.308-04,,1,[ 4 ],./0.png
+-72.333881,18.533657,438,West,Port-au-Prince,2025/07/04 07:37:00.552-04,,1,[ 4 ],./0.png
+-72.275456,18.542331,439,West,Delmas,2025/07/04 07:43:00.627-04,,1,[ 4 ],./0.png
+-72.338701,18.530207,441,West,Port-au-Prince,2025/07/04 11:34:00-04,,1,[ 4 ],./0.png
+-72.338716,18.530058,443,West,Port-au-Prince,2025/07/04 20:08:00-04,,1,[ 4 ],./0.png
+-72.338729,18.530087,444,West,Port-au-Prince,2025/07/05 07:54:00-04,,1,[ 4 ],./0.png
+-72.338645,18.530195,449,West,Port-au-Prince,2025/07/05 16:41:00-04,,1,[ 4 ],./0.png
+-72.338709,18.530154,450,West,Port-au-Prince,2025/07/05 20:00:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338675,18.530097,451,West,Port-au-Prince,2025/07/06 07:55:00.476-04,,1,[ 4 ],./0.png
+-72.286022,18.448444,453,West,Kenscoff,2025/07/06 10:17:00.227-04,,1,[ 4 ],./0.png
+-72.338628,18.530186,454,West,Port-au-Prince,2025/07/06 14:17:00.306-04,,1,[ 4 ],./0.png
+-72.336164,18.541754,455,West,Port-au-Prince,2025/07/06 14:20:00.157-04,,1,[ 4 ],./0.png
+-72.338711,18.530075,458,West,Port-au-Prince,2025/07/06 19:38:00-04,,1,[ 4 ],./0.png
+-72.338694,18.530122,459,West,Port-au-Prince,2025/07/07 06:38:00-04,,1,[ 4 ],./0.png
+-72.338613,18.530317,461,West,Port-au-Prince,2025/07/07 08:05:00-04,,1,[ 4 ],./0.png
+-72.338664,18.530162,462,West,Port-au-Prince,2025/07/07 12:40:00-04,,1,[ 4 ],./0.png
+-72.338621,18.530148,464,West,Port-au-Prince,2025/07/07 20:07:00-04,,1,[ 4 ],./0.png
+-72.337488,18.536349,465,West,Port-au-Prince,2025/07/07 20:08:00-04,,1,[ 4 ],./0.png
+-72.338722,18.530197,466,West,Port-au-Prince,2025/07/08 06:19:00.710-04,,1,[ 4 ],./0.png
+-72.338705,18.530132,467,West,Port-au-Prince,2025/07/08 07:44:00.514-04,,1,[ 4 ],./0.png
+-72.316226,18.54973,470,West,Delmas,2025/07/08 17:18:00.705-04,,1,[ 4 ],./0.png
+-72.338654,18.529797,471,West,Port-au-Prince,2025/07/09 07:03:00-04,,1,[ 4 ],./0.png
+-72.338658,18.53002,474,West,Port-au-Prince,2025/07/09 12:54:00-04,,1,[ 4 ],./0.png
+-72.33528,18.532309,476,West,Port-au-Prince,2025/07/09 17:54:00-04,,1,[ 4 ],./0.png
+-72.337403,18.536444,477,West,Port-au-Prince,2025/07/09 20:21:00-04,,1,[ 4 ],./0.png
+-71.936005,18.828282,478,Centre,Lascahobas,2025/07/09 20:24:00-04,,1,[ 4 ],./0.png
+-72.338602,18.530101,479,West,Port-au-Prince,2025/07/10 06:33:00-04,,1,[ 4 ],./0.png
+-72.338662,18.530089,480,West,Port-au-Prince,2025/07/10 07:46:00-04,,1,[ 4 ],./0.png
+-72.338744,18.530174,482,West,Port-au-Prince,2025/07/10 12:30:00-04,,1,[ 4 ],./0.png
+-72.338589,18.530248,488,West,Port-au-Prince,2025/07/11 12:16:00.486-04,,1,[ 4 ],./0.png
+-72.34661,18.536128,491,West,Port-au-Prince,2025/07/11 17:11:00.361-04,,1,[ 4 ],./0.png
+-72.342503,18.539329,493,West,Port-au-Prince,2025/07/11 17:36:00.366-04,,1,[ 4 ],./0.png
+-72.338673,18.530189,494,West,Port-au-Prince,2025/07/12 08:05:00-04,,1,[ 4 ],./0.png
+-72.338611,18.530284,496,West,Port-au-Prince,2025/07/12 10:08:00-04,,1,[ 4 ],./0.png
+-72.250737,18.523175,498,West,Petion-Ville,2025/07/12 20:39:00-04,,1,[ 4 ],./0.png
+-72.338634,18.530311,502,West,Port-au-Prince,2025/07/13 07:55:00-04,,1,[ 4 ],./0.png
+-72.311137,18.554738,505,West,Delmas,2025/07/13 11:55:00-04,,1,[ 4 ],./0.png
+-72.337113,18.538166,506,West,Port-au-Prince,2025/07/13 20:28:00-04,,1,[ 4 ],./0.png
+-72.338654,18.530142,508,West,Port-au-Prince,2025/07/14 06:00:00-04,,1,[ 4 ],./0.png
+-72.338675,18.530117,509,West,Port-au-Prince,2025/07/14 07:45:00-04,,1,[ 4 ],./0.png
+-72.338598,18.530179,514,West,Port-au-Prince,2025/07/15 06:32:00-04,,1,[ 4 ],./0.png
+-72.338688,18.530146,516,West,Port-au-Prince,2025/07/15 07:52:00-04,,1,[ 4 ],./0.png
+-72.239553,18.582994,519,West,Croix-Des-Bouquets,2025/07/15 13:18:00-04,,1,[ 4 ],./0.png
+-72.338662,18.530179,520,West,Port-au-Prince,2025/07/15 15:47:00-04,,1,[ 4 ],./0.png
+-72.316522,18.545399,521,West,Port-au-Prince,2025/07/15 16:33:00-04,,1,[ 4 ],./0.png
+-72.338714,18.529992,526,West,Port-au-Prince,2025/07/16 08:02:00-04,,1,[ 4 ],./0.png
+-72.338696,18.529869,527,West,Port-au-Prince,2025/07/16 13:13:00-04,,1,[ 4 ],./0.png
+-72.337232,18.533863,530,West,Port-au-Prince,2025/07/15 18:14:00-04,,1,[ 4 ],./0.png
+-72.339705,18.5357,532,West,Port-au-Prince,2025/07/16 21:32:00-04,,1,[ 4 ],./0.png
+-72.338681,18.530134,533,West,Port-au-Prince,2025/07/17 06:17:00.995-04,,1,[ 4 ],./0.png
+-72.340398,18.531965,539,West,Port-au-Prince,2025/07/17 20:23:00-04,,1,[ 4 ],./0.png
+-72.33862,18.530265,542,West,Port-au-Prince,2025/07/19 08:00:00-04,,1,[ 4 ],./0.png
+-72.334789,18.532824,547,West,Port-au-Prince,2025/07/21 11:45:00-04,,1,[ 4 ],./0.png
+-72.338705,18.529959,550,West,Port-au-Prince,2025/07/20 21:25:00-04,,1,[ 4 ],./0.png
+-72.338705,18.530159,552,West,Port-au-Prince,2025/07/21 12:09:00.344-04,,1,[ 4 ],./0.png
+-72.336984,18.538079,553,West,Port-au-Prince,2025/07/21 21:07:00-04,,1,[ 4 ],./0.png
+-72.338645,18.532849,554,West,Port-au-Prince,2025/07/22 07:02:00.939-04,,1,[ 4 ],./0.png
+-72.338525,18.530009,556,West,Port-au-Prince,2025/07/22 08:06:00.491-04,,1,[ 4 ],./0.png
+-72.338727,18.530168,558,West,Port-au-Prince,2025/07/22 13:34:00.506-04,,1,[ 4 ],./0.png
+-72.336083,18.541779,564,West,Port-au-Prince,2025/07/22 17:53:00.114-04,,1,[ 4 ],./0.png
+-72.33674,18.540925,566,West,Port-au-Prince,2025/07/22 20:38:00-04,,1,[ 4 ],./0.png
+-72.338525,18.530057,568,West,Port-au-Prince,2025/07/23 08:21:00.906-04,,1,[ 4 ],./0.png
+-72.335313,18.532191,569,West,Port-au-Prince,2025/07/22 23:36:00-04,,1,[ 4 ],./0.png
+-72.338696,18.531373,570,West,Port-au-Prince,2025/07/23 11:40:00.497-04,"b'Lots of shooting in Carrefour Feuilles, rue Fleur Ducheine and avenue Muller area'",1,[ 4 ],./0.png
+-72.338671,18.530082,575,West,Port-au-Prince,2025/07/23 17:51:00.082-04,,1,[ 4 ],./0.png
+-72.338619,18.530274,578,West,Port-au-Prince,2025/07/24 10:06:00.829-04,,1,[ 4 ],./0.png
+-72.346535,18.53635,580,West,Port-au-Prince,2025/07/24 19:35:00.554-04,,1,[ 4 ],./0.png
+-72.338722,18.530202,582,West,Port-au-Prince,2025/07/24 21:18:00-04,,1,[ 4 ],./0.png
+-72.338782,18.52987,584,West,Port-au-Prince,2025/07/25 07:58:00-04,,1,[ 4 ],./0.png
+-72.338649,18.53,590,West,Port-au-Prince,2025/07/25 21:52:00-04,,1,[ 4 ],./0.png
+-72.338658,18.530117,592,West,Port-au-Prince,2025/07/26 07:50:00.240-04,,1,[ 4 ],./0.png
+-72.338542,18.532949,598,West,Port-au-Prince,2025/07/26 15:31:00-04,b'Lots of shooting in Pacot area / clash between gang and police.',1,[ 4 ],./0.png
+-72.339237,18.531863,599,West,Port-au-Prince,2025/07/26 18:07:00-04,b'Lots of shooting in  carrefour Feuilles and Pacot area / clash between gang and police.',1,[ 4 ],./0.png
+-72.34,18.530278,600,West,Port-au-Prince,2025/07/26 20:20:00-04,,1,[ 4 ],./0.png
+-72.339924,18.532729,601,West,Port-au-Prince,2025/07/26 21:17:00-04,b'Lots of shooting in Babioles / Pacot area / clash between gang and armed population.',1,[ 4 ],./0.png
+-72.338731,18.530193,602,West,Port-au-Prince,2025/07/26 21:26:00-04,,1,[ 4 ],./0.png
+-72.338684,18.53006,603,West,Port-au-Prince,2025/07/27 08:32:00-04,,1,[ 4 ],./0.png
+-72.338628,18.530166,605,West,Port-au-Prince,2025/07/27 12:10:00-04,,1,[ 4 ],./0.png
+-72.338619,18.529951,608,West,Port-au-Prince,2025/07/27 20:21:00-04,,1,[ 4 ],./0.png
+-72.338666,18.530125,609,West,Port-au-Prince,2025/07/27 21:33:00-04,,1,[ 4 ],./0.png
+-72.338877,18.530047,610,West,Port-au-Prince,2025/07/28 07:57:00.852-04,,1,[ 4 ],./0.png
+-72.342464,18.535711,611,West,Port-au-Prince,2025/07/28 07:57:00.454-04,,1,[ 4 ],./0.png
+-72.336491,18.533489,617,West,Port-au-Prince,2025/07/28 12:40:00.665-04,,1,[ 4 ],./0.png
+-72.338699,18.530071,618,West,Port-au-Prince,2025/07/28 12:40:00.105-04,,1,[ 4 ],./0.png
+-72.33974,18.535755,801,West,Port-au-Prince,2025/08/19 07:54:00.232-04,b'Clash  between gang and police.',1,[ 4 ],./0.png
+-72.338581,18.530199,805,West,Port-au-Prince,2025/08/19 12:57:00.971-04,,1,[ 4 ],./0.png
+-72.338586,18.530334,808,West,Port-au-Prince,2025/08/20 07:46:00.139-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338615,18.530311,809,West,Port-au-Prince,2025/08/20 13:11:00.287-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.335916,18.541925,810,West,Port-au-Prince,2025/08/20 18:28:00.157-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338694,18.530142,811,West,Port-au-Prince,2025/08/21 07:44:00.559-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.340454,18.531923,812,West,Port-au-Prince,2025/08/21 07:47:00.844-04,b'Gang activity in progress',1,[ 4 ],./0.png
+-72.334742,18.532877,814,West,Port-au-Prince,2025/08/21 12:28:00.550-04,b'Clash between gang and police at avenue Christophe and rue Fleur Ducheine',1,[ 4 ],./0.png
+-72.307488,18.544905,816,West,Delmas,2025/08/21 13:06:00.804-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.313132,18.556458,819,West,Delmas,2025/08/21 15:03:00.503-04,"b""Lots of shooting in area of Carrefour de l'Aeroport, Delmas 19 and 30, Simon Pele""",1,[ 4 ],./0.png
+-72.339366,18.541591,824,West,Port-au-Prince,2025/08/22 10:37:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.31626,18.550098,827,West,Delmas,2025/08/21 14:52:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338714,18.530074,829,West,Port-au-Prince,2025/08/23 07:44:00-04,b'clash between gang and police',1,[ 4 ],./0.png
+-72.340289,18.528621,830,West,Port-au-Prince,2025/08/23 11:50:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.34346,18.539555,831,West,Port-au-Prince,2025/08/23 11:50:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338639,18.53018,833,West,Port-au-Prince,2025/08/23 18:02:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338679,18.530107,835,West,Port-au-Prince,2025/08/23 18:54:00-04,b'Clash between gang and police',1,[ 4 ],./0.png
+-72.338675,18.53015,836,West,Port-au-Prince,2025/08/24 07:55:00-04,b'Clash between gang and police',1,[ 4 ],./0.png
+-72.338585,18.530098,843,West,Port-au-Prince,2025/08/25 07:56:00.448-04,b'clash between gang and police',1,[ 4 ],./0.png
+-72.338529,18.530187,850,West,Port-au-Prince,2025/08/26 07:58:00.503-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338808,18.530146,852,West,Port-au-Prince,2025/08/26 12:19:00.511-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.336173,18.541904,856,West,Port-au-Prince,2025/08/26 17:46:00.151-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338654,18.530113,859,West,Port-au-Prince,2025/08/27 07:59:00.032-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.33621,18.531027,861,West,Port-au-Prince,2025/08/28 06:28:00.140-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338645,18.530303,862,West,Port-au-Prince,2025/08/28 08:00:00.481-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.348327,18.528738,865,West,Port-au-Prince,2025/08/28 12:10:00.813-04,b'Clash between gang and armed population.',1,[ 4 ],./0.png
+-72.334613,18.532853,868,West,Port-au-Prince,2025/08/29 07:36:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338605,18.530327,869,West,Port-au-Prince,2025/08/29 12:19:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338666,18.530162,870,West,Port-au-Prince,2025/08/29 19:55:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.342231,18.532301,873,West,Port-au-Prince,2025/08/30 20:52:00-04,b'Clash between gang and police',1,[ 4 ],./0.png
+-72.339653,18.540127,876,West,Port-au-Prince,2025/08/31 12:22:00.952-04,"b'lots of shooting in Champs de Mars, rue Monseigneur Guilloux and Stade Sylvio \xc2\xa0Cator area / downtown / clash between gang and police.'",1,[ 4 ],./0.png
+-72.338652,18.530205,882,West,Port-au-Prince,2025/09/01 12:46:00.671-04,b'Confrontation between gang and police',1,[ 4 ],./0.png
+-72.338765,18.530081,884,West,Port-au-Prince,2025/09/01 17:11:00.870-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338799,18.53004,885,West,Port-au-Prince,2025/09/02 08:35:00.135-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338679,18.53024,890,West,Port-au-Prince,2025/09/02 17:27:00.767-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338709,18.530016,892,West,Port-au-Prince,2025/09/01 20:25:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.335006,18.532453,895,West,Port-au-Prince,2025/09/03 12:24:00.818-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338645,18.530195,897,West,Port-au-Prince,2025/09/03 17:01:32.519-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.305716,18.586797,899,West,Cite Soleil,2025/09/04 12:23:00.494-04,b'clash between gang and police.',1,[ 4 ],./0.png
+-72.338669,18.530121,900,West,Port-au-Prince,2025/09/04 12:25:00.252-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.336079,18.542017,903,West,Port-au-Prince,2025/09/04 20:34:00-04,b'Clash between gang and police',1,[ 4 ],./0.png
+-72.341254,18.539088,904,West,Port-au-Prince,2025/09/04 20:34:00-04,b'Clash between gang and police',1,[ 4 ],./0.png
+-72.338662,18.530228,908,West,Port-au-Prince,2025/09/05 12:46:00.146-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338679,18.530195,909,West,Port-au-Prince,2025/09/06 07:47:00.045-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.305853,18.586773,911,West,Cite Soleil,2025/09/06 09:43:00.761-04,b'Gang activity in progress.',1,[ 4 ],./0.png
+-72.337478,18.53642,915,West,Port-au-Prince,2025/09/06 14:38:00.458-04,b'Police conduct operations with suicide drones during the late afternoon.',1,[ 4 ],./0.png
+-72.339486,18.541626,918,West,Port-au-Prince,2025/09/07 08:05:00.455-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338761,18.530407,920,West,Port-au-Prince,2025/09/07 13:16:00.866-04,b'Clash between gang and police helpad by armed population.',1,[ 4 ],./0.png
+-72.338602,18.530072,921,West,Port-au-Prince,2025/09/07 21:03:00-04,b'Clash between gang and police helpad by armed population.',1,[ 4 ],./0.png
+-72.468395,18.770084,922,West,Cabaret,2025/09/07 20:40:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.469185,18.772186,927,West,Cabaret,2025/09/08 16:10:00.313-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.336877,18.533702,929,West,Port-au-Prince,2025/09/08 21:56:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.469357,18.76977,930,West,Cabaret,2025/09/09 07:44:00.251-04,b'Clash between gang and police',1,[ 4 ],./0.png
+-72.46867,18.769619,932,West,Cabaret,2025/09/09 11:30:00.953-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338593,18.530171,934,West,Port-au-Prince,2025/09/09 17:35:00.685-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.339673,18.535738,935,West,Port-au-Prince,2025/09/09 18:35:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.468945,18.770428,937,West,Cabaret,2025/09/09 19:25:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338679,18.530175,938,West,Port-au-Prince,2025/09/09 19:33:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.470043,18.770391,939,West,Cabaret,2025/09/10 07:22:00.227-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338774,18.530244,940,West,Port-au-Prince,2025/09/10 07:46:00.846-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.333399,18.533454,945,West,Port-au-Prince,2025/09/10 13:32:00.047-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.336628,18.539649,946,West,Port-au-Prince,2025/09/10 18:11:00.824-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338147,18.538275,947,West,Port-au-Prince,2025/09/10 19:25:00.780-04,"b'Clash between gang and police in Carrefour Feuille, rue Nicolas, ruelle Romain and rue Chavanne area'",1,[ 4 ],./0.png
+-72.338611,18.53,949,West,Port-au-Prince,2025/09/11 07:58:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.469151,18.769621,950,West,Cabaret,2025/09/11 11:59:00.634-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338666,18.530109,951,West,Port-au-Prince,2025/09/11 12:23:00.141-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.336903,18.539428,952,West,Port-au-Prince,2025/09/11 16:35:00.157-04,b'Lots of shooting in ruelle Romain and Champs de Mars area / clash between gang and police.',1,[ 4 ],./0.png
+-72.468567,18.77118,953,West,Cabaret,2025/09/11 17:24:00.110-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.333935,18.546132,955,West,Port-au-Prince,2025/09/11 20:31:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.336293,18.530754,956,West,Port-au-Prince,2025/09/12 06:31:00.150-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.513268,18.768967,958,West,Arcahaie,2025/09/12 17:50:48.828-04,b'Gang activity in progress.',1,[ 4 ],./0.png
+-72.336486,18.533534,959,West,Port-au-Prince,2025/09/12 16:43:00.931-04,b'Clash between gang and police',1,[ 4 ],./0.png
+-72.339702,18.535691,960,West,Port-au-Prince,2025/09/13 11:23:00.006-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338626,18.530321,961,West,Port-au-Prince,2025/09/13 14:45:00.214-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.334716,18.532927,962,West,Port-au-Prince,2025/09/13 16:34:00.238-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.346557,18.5364,963,West,Port-au-Prince,2025/09/13 19:12:00.355-04,b'Clash between gang and police',1,[ 4 ],./0.png
+-72.33474,18.532911,965,West,Port-au-Prince,2025/09/13 21:29:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338662,18.530158,967,West,Port-au-Prince,2025/09/14 11:38:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.334787,18.532892,968,West,Port-au-Prince,2025/09/14 16:04:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.335283,18.532256,969,West,Port-au-Prince,2025/09/15 06:50:00.832-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.469837,18.769864,970,West,Cabaret,2025/09/15 07:34:00.518-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.33866,18.530075,971,West,Port-au-Prince,2025/09/15 07:47:00.225-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.340186,18.53879,974,West,Port-au-Prince,2025/09/15 11:37:00.867-04,b'Lots of shooting in front of the General Hospital / Clash between gang and police.',1,[ 4 ],./0.png
+-72.346576,18.536363,975,West,Port-au-Prince,2025/09/15 11:37:00.061-04,b'Lots of shooting at Portail Leogane  / Clash between gang and police.',1,[ 4 ],./0.png
+-72.469408,18.770155,976,West,Cabaret,2025/09/15 11:56:00.747-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.346559,18.536315,978,West,Port-au-Prince,2025/09/15 13:10:00.845-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.340151,18.538873,979,West,Port-au-Prince,2025/09/15 18:40:00.926-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.335261,18.532203,982,West,Port-au-Prince,2025/09/16 06:37:00.144-04,b'Armed men in area.',4,[ 4 ],./0.png
+-72.334671,18.532927,984,West,Port-au-Prince,2025/09/16 09:08:00.144-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.334607,18.532867,986,West,Port-au-Prince,2025/09/16 11:09:00.170-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.340138,18.538729,987,West,Port-au-Prince,2025/09/16 12:17:00.254-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.334645,18.532846,991,West,Port-au-Prince,2025/09/17 07:49:00.341-04,b'Armed men in area',4,[ 4 ],./0.png
+-72.340241,18.538658,994,West,Port-au-Prince,2025/09/17 12:16:00.351-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.340164,18.538671,997,West,Port-au-Prince,2025/09/17 16:23:00.714-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.335737,18.53324,998,West,Port-au-Prince,2025/09/17 16:23:00.581-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.334804,18.532941,999,West,Port-au-Prince,2025/09/18 06:52:00.443-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.340194,18.538697,1000,West,Port-au-Prince,2025/09/18 06:52:00.866-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.341529,18.532183,1001,West,Port-au-Prince,2025/09/18 07:52:00.108-04,b'Clash between gang and police. ',1,[ 4 ],./0.png
+-72.334789,18.532925,1004,West,Port-au-Prince,2025/09/18 12:42:00.494-04,b'Armed men in are',4,[ 4 ],./0.png
+-72.337109,18.538091,1007,West,Port-au-Prince,2025/09/18 16:40:00.447-04,b' Clash between gang and police.',1,[ 4 ],./0.png
+-72.33713,18.533797,1008,West,Port-au-Prince,2025/09/18 16:40:00.822-04,b' Clash between gang and police.',1,[ 4 ],./0.png
+-72.338587,18.530294,1011,West,Port-au-Prince,2025/09/19 06:38:00.467-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.334667,18.532929,1013,West,Port-au-Prince,2025/09/19 07:48:00.610-04,b'Armed men in area',4,[ 4 ],./0.png
+-72.333166,18.532037,1017,West,Port-au-Prince,2025/09/19 11:33:00.718-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.334058,18.532498,1021,West,Port-au-Prince,2025/09/19 16:44:00.014-04,b'Clash between gang and police',1,[ 4 ],./0.png
+-72.334058,18.532498,1024,West,Port-au-Prince,2025/09/19 16:44:00.014-04,b' Clash between gang and police',1,[ 4 ],./0.png
+-72.311578,18.552439,1027,West,Delmas,2025/09/20 08:16:00.187-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.33869,18.530371,1031,West,Port-au-Prince,2025/09/20 12:28:00.250-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.346492,18.536369,1032,West,Port-au-Prince,2025/09/20 12:28:00.835-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.340454,18.531915,1033,West,Port-au-Prince,2025/09/20 18:35:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338705,18.532775,1034,West,Port-au-Prince,2025/09/20 19:49:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338619,18.530127,1035,West,Port-au-Prince,2025/09/20 20:46:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.33391,18.546197,1037,West,Port-au-Prince,2025/09/20 21:27:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.340023,18.533193,1039,West,Port-au-Prince,2025/09/21 11:34:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.341572,18.53238,1040,West,Port-au-Prince,2025/09/21 11:54:00-04,"b'Lots of shooting in ruelle Alerte, rue Cameau, march\xc3\xa9 Salomon, Stade Sylvio Cator and rue Nicolas area / downtown / Clash between gang and police.'",1,[ 4 ],./0.png
+-72.341426,18.532518,1042,West,Port-au-Prince,2025/09/21 16:34:00-04,b'lots of shooting in Stade Sylvio Cator and rue Nicolas area / downtown / Clash between gang and police.',1,[ 4 ],./0.png
+-72.339119,18.533543,1044,West,Port-au-Prince,2025/09/22 07:50:00.318-04,b'Armed men in area',4,[ 4 ],./0.png
+-72.341057,18.534813,1049,West,Port-au-Prince,2025/09/22 12:13:00.088-04,"b'lots of shooting in march\xc3\xa9 Salomon, Stade Sylvio Cator area / Clash between gang and police.'",1,[ 4 ],./0.png
+-72.338581,18.530377,1056,West,Port-au-Prince,2025/09/23 12:14:00.316-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.333551,18.534979,1058,West,Port-au-Prince,2025/09/24 08:10:00.965-04,b'Armed men in area',4,[ 4 ],./0.png
+-72.300793,18.530687,1065,West,Port-au-Prince,2025/09/25 13:52:00-04,b'The population demonstrates against insecurity and demands a salary increase.',6,[ 4 ],./0.png
+-72.336087,18.541909,1066,West,Port-au-Prince,2025/09/25 18:24:00-04,b'Clash between gang and police',1,[ 4 ],./0.png
+-72.345353,18.539962,1067,West,Port-au-Prince,2025/09/25 18:24:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338586,18.5303,1070,West,Port-au-Prince,2025/09/26 12:17:00.059-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.33645,18.533511,1071,West,Port-au-Prince,2025/09/26 17:15:00.421-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.341295,18.539035,1079,West,Port-au-Prince,2025/09/27 08:39:00.204-04,b'Clash between gang and police',1,[ 4 ],./0.png
+-72.3358,18.538544,1080,West,Port-au-Prince,2025/09/27 09:46:00.434-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.333778,18.532266,1083,West,Port-au-Prince,2025/09/27 12:39:00.062-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338673,18.530231,1086,West,Port-au-Prince,2025/09/27 20:28:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338634,18.53023,1087,West,Port-au-Prince,2025/09/28 08:03:00.416-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.338658,18.5302,1088,West,Port-au-Prince,2025/09/28 12:15:00.332-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.336233,18.533429,1090,West,Port-au-Prince,2025/09/28 13:20:00.222-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338654,18.53019,1091,West,Port-au-Prince,2025/09/28 13:20:00.534-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338666,18.530169,1092,West,Port-au-Prince,2025/09/28 20:26:00-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.33681,18.538093,1093,West,Port-au-Prince,2025/09/29 06:59:00.154-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.338662,18.530162,1095,West,Port-au-Prince,2025/09/29 07:52:00.665-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.336126,18.533391,1103,West,Port-au-Prince,2025/10/01 08:42:00.906-04,b'Clash between gang and police.  ',1,[ 4 ],./0.png
+-72.338922,18.536453,1105,West,Port-au-Prince,2025/10/01 09:31:00.921-04,b'Lots of shooting in rue Chavannes and March\xc3\xa9 Salomon area.',1,[ 4 ],./0.png
+-72.339408,18.531654,1108,West,Port-au-Prince,2025/10/01 13:19:00.342-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.240405,18.621252,1150,West,Croix-Des-Bouquets,2025/10/08 09:59:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.339898,18.533705,1151,West,Port-au-Prince,2025/10/08 10:11:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.340173,18.538576,1112,West,Port-au-Prince,2025/10/02 12:24:00.333-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338606,18.530308,1114,West,Port-au-Prince,2025/10/02 20:50:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338636,18.530378,1117,West,Port-au-Prince,2025/10/03 12:27:00.691-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.338599,18.530242,1121,West,Port-au-Prince,2025/10/03 17:58:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.341902,18.535824,1125,West,Port-au-Prince,2025/10/04 08:20:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338688,18.530113,1127,West,Port-au-Prince,2025/10/04 12:21:00-04,b' Clash between gang and police.',1,[ 4 ],./0.png
+-72.338675,18.530187,1130,West,Port-au-Prince,2025/10/05 09:50:00.155-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.311471,18.554191,1131,West,Delmas,2025/10/05 09:57:00.915-04,b'Clash between gang and police.\nPolice used suicide drones during an operation',1,[ 4 ],./0.png
+-72.34016,18.5329,1132,West,Port-au-Prince,2025/10/05 12:09:00.492-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.311136,18.553663,1133,West,Delmas,2025/10/05 18:06:00.602-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.330101,18.535105,1140,West,Port-au-Prince,2025/10/06 17:36:00.696-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338696,18.530248,1143,West,Port-au-Prince,2025/10/07 08:19:00-04,b'Clash between gang and police  helped by armed population.',1,[ 4 ],./0.png
+-72.338649,18.530207,1146,West,Port-au-Prince,2025/10/07 12:39:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338651,18.530272,1147,West,Port-au-Prince,2025/10/07 19:41:00-04,b'Clash between gang and police ',1,[ 4 ],./0.png
+-72.338576,18.53002,1154,West,Port-au-Prince,2025/10/08 12:28:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.339375,18.534401,1156,West,Port-au-Prince,2025/10/08 17:45:00-04,b'Shooting in Carrefour Feuilles and March\xc3\xa9 Salomon area / Clash between gang and police ',1,[ 4 ],./0.png
+-72.338666,18.530203,1157,West,Port-au-Prince,2025/10/09 07:51:00.444-04,b'Clash between gang and police   helped by armed population.',1,[ 4 ],./0.png
+-72.338937,18.538991,1159,West,Port-au-Prince,2025/10/09 09:16:00.748-04,"b'Shooting in rue Joseph Janvier, Palais Nationale and Champs de Mars area'",1,[ 4 ],./0.png
+-72.337109,18.542358,1161,West,Port-au-Prince,2025/10/09 10:02:00.909-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.3402,18.540867,1163,West,Port-au-Prince,2025/10/09 12:09:00.581-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338181,18.541551,1164,West,Port-au-Prince,2025/10/09 14:15:00.681-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338588,18.530317,1167,West,Port-au-Prince,2025/10/10 12:13:00.160-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.339735,18.543337,1169,West,Port-au-Prince,2025/10/10 13:25:00.663-04,b'Confrontation between gang and police.',1,[ 4 ],./0.png
+-72.340072,18.533034,1170,West,Port-au-Prince,2025/10/10 16:52:00.014-04,b'Shooting in ruelle Romain and Ave Magloire et\xc2\xa0Ambroise area / Clash between gang and police.',1,[ 4 ],./0.png
+-72.342816,18.532404,1171,West,Port-au-Prince,2025/10/10 17:40:00.503-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338593,18.530286,1172,West,Port-au-Prince,2025/10/10 20:37:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.33869,18.530137,1173,West,Port-au-Prince,2025/10/11 08:06:00.657-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.340692,18.536102,1176,West,Port-au-Prince,2025/10/11 10:13:00.417-04,b'Shooting in Stade Sylvio Cator and March\xc3\xa9 Salomon area / Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.338606,18.530344,1177,West,Port-au-Prince,2025/10/11 12:17:00.667-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.341555,18.535981,1178,West,Port-au-Prince,2025/10/11 16:24:00.016-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.342606,18.539327,1182,West,Port-au-Prince,2025/10/12 12:33:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338722,18.530264,1184,West,Port-au-Prince,2025/10/12 20:38:00-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.334607,18.532864,1190,West,Port-au-Prince,2025/10/13 15:34:00.126-04,b'Police intervention with kamikaze drones',1,[ 4 ],./0.png
+-72.336946,18.538172,1191,West,Port-au-Prince,2025/10/13 15:37:00.947-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.330058,18.535155,1192,West,Port-au-Prince,2025/10/13 15:52:00.875-04,b'Police intervention with kamikaze drones',1,[ 4 ],./0.png
+-72.336319,18.542178,1194,West,Port-au-Prince,2025/10/13 22:51:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338613,18.530397,1195,West,Port-au-Prince,2025/10/14 08:02:00.243-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.335761,18.541438,1199,West,Port-au-Prince,2025/10/14 12:40:00.324-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338709,18.530303,1200,West,Port-au-Prince,2025/10/14 22:17:00-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.338602,18.530308,1202,West,Port-au-Prince,2025/10/15 12:54:00.658-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338014,18.532778,1205,West,Port-au-Prince,2025/10/16 07:16:00.369-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-71.948107,18.820518,1210,Centre,Lascahobas,2025/10/16 18:43:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.095203,18.835726,1211,Centre,Mirebalais,2025/10/16 20:07:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338765,18.530382,1212,West,Port-au-Prince,2025/10/16 22:13:00-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.307858,18.907145,1213,Artibonite,La Chapelle,2025/10/16 22:14:00-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.336096,18.541734,1214,West,Port-au-Prince,2025/10/17 07:48:00.154-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338624,18.530312,1223,West,Port-au-Prince,2025/10/18 08:27:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338716,18.530268,1226,West,Port-au-Prince,2025/10/18 13:30:00.386-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.099632,18.832178,1229,Centre,Mirebalais,2025/10/18 16:14:00.117-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.341618,18.539113,1231,West,Port-au-Prince,2025/10/19 11:39:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338683,18.530409,1232,West,Port-au-Prince,2025/10/19 13:12:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.33012,18.535111,1242,West,Port-au-Prince,2025/10/21 10:10:00.381-04,b'Gang members were holed up in the church during the morning.',4,[ 4 ],./0.png
+-72.329967,18.595866,1251,West,Cite Soleil,2025/10/22 11:29:00.105-04,b'Armed men in area',4,[ 4 ],./0.png
+-72.344241,18.532534,1253,West,Port-au-Prince,2025/10/22 14:06:00.440-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.339591,18.535826,1255,West,Port-au-Prince,2025/10/22 15:27:00.539-04,b'police operation with kamikaze drones',1,[ 4 ],./0.png
+-72.339733,18.535744,1257,West,Port-au-Prince,2025/10/23 07:47:00.315-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.336495,18.536444,1267,West,Port-au-Prince,2025/10/24 12:01:00.055-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.339726,18.535704,1290,West,Port-au-Prince,2025/10/28 09:05:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.286606,18.450723,1292,West,Kenscoff,2025/10/29 20:26:00.423-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338673,18.530254,1293,West,Port-au-Prince,2025/10/30 12:12:00-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.304922,18.573125,351,West,Delmas,2025/06/20 09:01:00.396-04,,1,[ 5 ],./0.png
+-72.318749,18.566942,641,West,Delmas,2025/07/31 12:43:00.264-04,,1,[ 5 ],./0.png
+-72.254617,18.523376,546,West,Petion-Ville,2025/07/20 09:58:00-04,,1,[ 5 ],./0.png
+-72.318413,18.56986,629,West,Delmas,2025/07/29 18:21:00-04,,1,[ 5 ],./0.png
+-72.317865,18.565546,1036,West,Delmas,2025/09/20 20:58:00-04,"b'Police operation with multiple kamikaze drones to neutralize a birthday party for the so-called Djouma, leader of the G-9 gang.'",1,[ 5 ],./0.png
+-72.341512,18.563246,400,West,Cite Soleil,2025/06/26 22:26:00-04,b'Clash between gangs',1,"[ 4, 5 ]",./0.png
+-72.319882,18.484139,407,West,Petion-Ville,2025/06/27 12:51:00.859-04,b'Clash between gangs.',1,"[ 4, 5 ]",./0.png
+-72.343505,18.539558,659,West,Port-au-Prince,2025/08/02 18:10:00.548-04,,1,[ 6 ],./0.png
+-72.391903,18.994234,1183,Artibonite,Verrettes,2025/10/12 13:39:00-04,b'Clash between gang and armed population in in Chari\xc3\xa9 district.',1,[ 6 ],./0.png
+-72.311651,18.552459,653,West,Delmas,2025/08/01 19:56:00-04,,1,[ 8 ],./0.png
+-72.311647,18.552105,706,West,Delmas,2025/08/07 15:30:00-04,b'Confrontation between armed gang and the police.',1,[ 8 ],./0.png
+-72.31157452,18.55246625,736,West,Delmas,2025/08/11 12:20:00-04,b'Clash between gang and police.',1,[ 8 ],./0.png
+-72.31159061,18.5524866,744,West,Delmas,2025/08/12 11:30:00-04,b'Kidnapping of 17 passengers on a bus (transit)',5,[ 8 ],./0.png
+-72.3114994168281,18.5528578471462,765,West,Delmas,2025/08/14 19:00:00-04,b'Confrontation between gang and police.',1,[ 8 ],./0.png
+-72.312334,18.554935,1106,West,Delmas,2025/10/01 09:43:00.649-04,b'3 members of the Jouma gang who came as scouts were captured and executed by the population near the church.',3,[ 8 ],./0.png
+-72.311333,18.552905,1203,West,Delmas,2025/10/15 14:51:00.609-04,b'Clash between gang and police.',1,[ 8 ],./0.png
+-72.306931,18.905205,1208,Artibonite,La Chapelle,2025/10/16 15:46:00.338-04,b'Clash between gang and armed population.',1,[ 9 ],./0.png
+-72.311578,18.552187,420,West,Delmas,2025/07/01 14:06:00.799-04,,1,[ 10 ],./0.png
+-72.388899,18.989365,619,Artibonite,Verrettes,2025/07/28 15:51:00.418-04,,1,[ 14 ],./0.png
+-72.249278,18.520714,540,West,Petion-Ville,2025/07/17 21:15:00-04,"b'Armed gangs attacked the area of Route des Freres, near the police academy, causing the population to flee en masse.'",1,[ 10 ],./0.png
+-72.24898,18.580633,667,West,Tabarre,2025/08/04 10:10:00-04,b'Confrontation between armed gang and the police.',1,[ 10 ],./0.png
+-72.256683,18.568745,689,West,Tabarre,2025/08/06 23:25:00-04,,1,[ 10 ],./0.png
+-72.25658923,18.52272791,705,West,Petion-Ville,2025/08/07 14:40:00-04,b'Confrontation between armed gang and the police.',1,[ 10 ],./0.png
+-72.250643,18.523237,721,West,Petion-Ville,2025/08/09 07:35:00-04,,1,[ 10 ],./0.png
+-72.25731611,18.56970063,729,West,Tabarre,2025/08/10 10:50:00-04,b'Clash between gang and police',1,[ 10 ],./0.png
+-72.23484457,18.52206666,739,West,Petion-Ville,2025/08/11 14:45:00-04,b'Confrontation between armed gang and the police.',1,[ 10 ],./0.png
+-72.2278171777725,18.5231856927964,757,West,Petion-Ville,2025/08/13 17:15:00-04,b'Confrontation between gang and the police',1,[ 10 ],./0.png
+-72.254655,18.524378,1069,West,Petion-Ville,2025/09/26 09:05:00.963-04,b'It seems that the gang kidnapped 14 people on the Boulevard du 15 Octobre and wanted to escape via the Route des Fr\xc3\xa8res where they were intercepted by the police.',1,[ 10 ],./0.png
+-72.399834,18.535244,473,West,Carrefour,2025/07/09 10:09:00-04,b'Armed men in the area',4,[ 11 ],./0.png
+-72.389354,18.992587,1270,Artibonite,Verrettes,2025/10/24 13:28:00.569-04,b'Clash between gang and police helped by armed population.',1,[ 14 ],./0.png
+-72.388985,18.990611,1273,Artibonite,Verrettes,2025/10/24 16:43:00.898-04,b'Fighting has been going on since this morning between gangs and police helped by the armed population.',1,[ 14 ],./0.png
+-72.388272,18.987693,452,Artibonite,Verrettes,2025/07/06 08:11:00.185-04,b'Clash between gang and police.',1,[ 14 ],./0.png
+-72.390749,18.991901,616,Artibonite,Verrettes,2025/07/28 11:23:00.933-04,,1,[ 14 ],./0.png
+-72.3913419,18.9948207,675,Artibonite,Verrettes,2025/08/05 10:05:00-04,b'Confrontation between armed gang and the police',1,[ 14 ],./0.png
+-72.308922,18.907423,754,Artibonite,La Chapelle,2025/08/13 13:50:00-04,b'Gang member circulating in the town ',4,[ 14 ],./0.png
+-72.305815,18.908462,914,Artibonite,La Chapelle,2025/09/06 14:15:00.082-04,b'Armed men they search people and look in their phones',4,[ 14 ],./0.png
+-72.390409,18.993146,1239,Artibonite,Verrettes,2025/10/20 19:45:00-04,b'Clash between gang and armed population.',1,[ 14 ],./0.png
+-72.390804,18.992158,1245,Artibonite,Verrettes,2025/10/21 12:55:00.955-04,b'Clash between gang and police helped by armed population.',1,[ 14 ],./0.png
+-72.390083,18.991221,1248,Artibonite,Verrettes,2025/10/21 20:09:00-04,b'Clash between gang and armed population.',1,[ 14 ],./0.png
+-72.389671,18.991162,1249,Artibonite,Verrettes,2025/10/22 07:06:00.900-04,b'Clash between gang and armed population.',1,[ 14 ],./0.png
+-72.389465,18.990679,1252,Artibonite,Verrettes,2025/10/22 12:01:00.530-04,b'Clash between gang and police.',1,[ 14 ],./0.png
+-72.390667,18.98935,1254,Artibonite,Verrettes,2025/10/22 15:09:00.899-04,b'Clash between gang and police.',1,[ 14 ],./0.png
+-71.93597,18.82864,432,Centre,Lascahobas,2025/07/03 11:26:00-04,b'Two gangs attacked the town and fought several battles for much of the day.',1,"[ 1, 4, 14 ]",./0.png
+-71.936142,18.830041,434,Centre,Lascahobas,2025/07/03 14:11:00-04,,1,"[ 1, 4, 14 ]",./0.png
+-71.935541,18.828982,435,Centre,Lascahobas,2025/07/03 15:16:00-04,,1,"[ 1, 4, 14 ]",./0.png
+-72.339716,18.535749,376,West,Port-au-Prince,2025/06/23 18:46:00-04,,1,[ 15 ],./0.png
+-72.310123,18.908392,378,Artibonite,La Chapelle,2025/06/23 19:58:00-04,,1,[ 15 ],./0.png
+-71.938631,18.827097,1287,Centre,Lascahobas,2025/10/27 12:52:00.020-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.338611,18.530203,350,West,Port-au-Prince,2025/06/20 07:46:00.908-04,,1,[ 18 ],./0.png
+-72.337707,18.533989,356,West,Port-au-Prince,2025/06/21 09:34:00-04,,1,[ 18 ],./0.png
+-72.338705,18.530236,359,West,Port-au-Prince,2025/06/21 16:08:00-04,,1,[ 18 ],./0.png
+-72.337939,18.534095,361,West,Port-au-Prince,2025/06/21 20:45:00-04,,1,[ 18 ],./0.png
+-72.338834,18.529934,363,West,Port-au-Prince,2025/06/22 09:50:00-04,,1,[ 18 ],./0.png
+-72.333965,18.54624,366,West,Port-au-Prince,2025/06/22 12:36:00-04,,1,[ 18 ],./0.png
+-72.2527113,18.62115191,250,West,Croix-Des-Bouquets,2025/06/07 12:11:00-04,b'Gang activity in progress',4,,./0.png
+-72.248977124691,18.5811570424725,386,West,Tabarre,2025/06/24 18:55:00-04,b'Confrontation between armed gangs and the police',1,[ 18 ],./0.png
+-72.331487,18.534465,404,West,Port-au-Prince,2025/06/27 11:09:00.723-04,,1,[ 18 ],./0.png
+-72.29797,18.584651,409,West,Tabarre,2025/06/27 22:21:00-04,b'Clash between gangs',1,[ 18 ],./0.png
+-72.338724,18.530176,411,West,Port-au-Prince,2025/06/28 12:44:00-04,,1,[ 18 ],./0.png
+-72.336499,18.541519,412,West,Port-au-Prince,2025/06/28 15:28:00-04,,1,[ 18 ],./0.png
+-72.344405,18.541793,413,West,Port-au-Prince,2025/06/28 15:39:00-04,,1,[ 18 ],./0.png
+-72.344808,18.539843,414,West,Port-au-Prince,2025/06/28 16:40:00-04,,1,[ 18 ],./0.png
+-72.286366,18.450172,416,West,Kenscoff,2025/06/29 22:51:00-04,,1,[ 18 ],./0.png
+-72.340241,18.541517,422,West,Port-au-Prince,2025/07/01 16:36:00-04,,1,[ 18 ],./0.png
+-72.103031,18.833465,448,Centre,Mirebalais,2025/07/05 12:40:00-04,,1,[ 18 ],./0.png
+-72.375,18.531944,457,West,Carrefour,2025/07/06 19:09:00-04,,1,[ 18 ],./0.png
+-72.304167,18.589167,463,West,Cite Soleil,2025/07/07 15:14:00-04,b'Armed men in the area',4,[ 18 ],./0.png
+-72.229709,18.580833,475,West,Croix-Des-Bouquets,2025/07/09 16:14:00-04,,1,[ 18 ],./0.png
+-72.311625,18.55236,484,West,Delmas,2025/07/01 15:42:00-04,,1,[ 18 ],./0.png
+-72.316775,18.545539,485,West,Port-au-Prince,2025/07/10 17:54:00-04,,1,[ 18 ],./0.png
+-72.316144,18.54976,486,West,Delmas,2025/07/10 17:37:00-04,,1,[ 18 ],./0.png
+-72.285198,18.450041,424,West,Kenscoff,2025/07/02 08:36:00-04,,1,"[ 3, 15, 18 ]",./0.png
+-72.285782,18.44942,487,West,Kenscoff,2025/07/11 09:36:00.688-04,b'Clash between gang and police in Furcy area',1,[ 18 ],./0.png
+-72.28682,18.452173,489,West,Kenscoff,2025/07/11 14:50:00.518-04,b'Clash between gang and police at Viard area',1,[ 18 ],./0.png
+-72.286949,18.450186,490,West,Kenscoff,2025/07/11 17:07:00.651-04,b'Clash between gang and police at Godet area',1,[ 18 ],./0.png
+-72.286366,18.448244,499,West,Kenscoff,2025/07/12 22:50:00-04,,1,[ 18 ],./0.png
+-72.29797,18.557361,500,West,Delmas,2025/07/12 23:11:00-04,,1,[ 18 ],./0.png
+-72.295886,18.544767,501,West,Delmas,2025/07/12 22:11:00-04,,1,[ 18 ],./0.png
+-72.28616,18.449519,503,West,Kenscoff,2025/07/13 10:27:00-04,,1,[ 18 ],./0.png
+-72.316788,18.545732,504,West,Delmas,2025/07/13 11:51:00-04,,1,[ 18 ],./0.png
+-72.25054,18.523585,507,West,Petion-Ville,2025/07/13 20:38:00-04,,1,[ 18 ],./0.png
+-72.300407,18.417251,511,West,Kenscoff,2025/07/14 12:38:00-04,,1,[ 18 ],./0.png
+-72.225254,18.606633,512,West,Croix-Des-Bouquets,2025/07/14 15:15:00-04,,1,[ 18 ],./0.png
+-72.311668,18.552354,513,West,Delmas,2025/07/14 20:36:00-04,,1,[ 18 ],./0.png
+-72.298159,18.556354,515,West,Delmas,2025/07/15 07:39:00-04,b'Gang Activity in progress',1,[ 18 ],./0.png
+-72.286065,18.449356,517,West,Kenscoff,2025/07/15 20:21:00-04,,1,[ 18 ],./0.png
+-72.311681,18.552324,523,West,Delmas,2025/07/15 18:51:00-04,,1,[ 18 ],./0.png
+-72.249289,18.520186,525,West,Petion-Ville,2025/07/15 22:17:00-04,,1,[ 18 ],./0.png
+-72.31163,18.552447,531,West,Delmas,2025/07/16 18:15:00-04,,1,[ 18 ],./0.png
+-72.286228,18.456698,538,West,Kenscoff,2025/07/17 18:15:00-04,b'Police operation in progress with kamikaze drone',1,[ 18 ],./0.png
+-72.311664,18.552286,571,West,Delmas,2025/07/23 13:38:00.685-04,,1,[ 18 ],./0.png
+-72.311658,18.552312,572,West,Delmas,2025/07/23 15:54:00.335-04,,1,[ 18 ],./0.png
+-72.286408,18.450064,583,West,Kenscoff,2025/07/25 07:48:00-04,,1,[ 18 ],./0.png
+-72.286022,18.450169,585,West,Kenscoff,2025/07/25 10:34:00-04,,1,[ 18 ],./0.png
+-72.316775,18.545615,588,West,Port-au-Prince,2025/07/25 13:19:00-04,,1,[ 18 ],./0.png
+-72.30575,18.586682,626,West,Cite Soleil,2025/07/29 11:22:00.944-04,,1,[ 18 ],./0.png
+-72.099564,18.834359,637,Centre,Mirebalais,2025/07/31 08:13:00.012-04,,1,[ 18 ],./0.png
+-72.304881,18.585537,656,West,Cite Soleil,2025/08/02 11:09:00.405-04,,1,[ 18 ],./0.png
+-72.309684,18.550234,669,West,Delmas,2025/08/04 15:15:00-04,b'Confrontation between armed gang and the police',1,[ 18 ],./0.png
+-72.104836,18.83442106,681,Centre,Mirebalais,2025/08/06 07:35:00-04,,1,[ 18 ],./0.png
+-72.335926,18.538506,698,West,Port-au-Prince,2025/08/07 11:35:00-04,b'Clash between gang and police',1,[ 18 ],./0.png
+-71.93573,18.827991,701,Centre,Lascahobas,2025/08/07 12:20:00-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.31126338,18.55118467,710,West,Delmas,2025/08/08 03:30:00-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.31130362,18.55257305,727,West,Delmas,2025/08/09 17:45:00-04,b'Confrontation between gang and police',1,[ 18 ],./0.png
+-72.3120345999999,18.4806679666484,759,West,Petion-Ville,2025/08/13 11:55:00-04,b'Confrontation between gang and police / self-defense brigade. ',1,[ 18 ],./0.png
+-72.239433,18.582996,309,West,Croix-Des-Bouquets,2025/06/13 12:13:00.523-04,b'Armed men from carrefour Marassa to Santo 17',4,,./0.png
+-72.213924,18.610549,310,West,Croix-Des-Bouquets,2025/06/13 12:32:00.988-04,b'Armed men in the area',4,,./0.png
+-72.336508,18.541701,311,West,Port-au-Prince,2025/06/13 12:46:00.892-04,b'Armed men in champs de Mars area',4,,./0.png
+-72.103649,18.833465,312,Centre,Mirebalais,2025/06/14 11:45:00-04,,1,,./0.png
+-72.33804,18.534118,313,West,Port-au-Prince,2025/06/14 11:52:00-04,,1,,./0.png
+-72.101944,18.833611,314,Centre,Mirebalais,2025/06/14 12:44:00-04,b'Fighting took place across the city between gang members and law enforcement.',1,,./0.png
+-72.100903,18.833417,315,Centre,Mirebalais,2025/06/14 16:42:00-04,,1,,./0.png
+-72.10231,18.833618,316,Centre,Mirebalais,2025/06/14 18:29:00-04,,1,,./0.png
+-72.338688,18.530144,317,West,Port-au-Prince,2025/06/15 09:46:00.669-04,,1,,./0.png
+-72.338681,18.53038,318,West,Port-au-Prince,2025/06/15 12:21:00.191-04,,1,,./0.png
+-72.097520828247,18.830753371357,760,Centre,Mirebalais,2025/08/14 10:35:00-04,b'Clash between gang and police helped by armed population.',1,[ 18 ],./0.png
+-72.0876502990722,18.8439132011341,766,Centre,Mirebalais,2025/08/14 20:00:00-04,b'Confrontation between gang and police helped by armed population.',1,[ 18 ],./0.png
+-72.3196721076965,18.5405501740724,767,West,Port-au-Prince,2025/08/14 20:40:00-04,,1,[ 18 ],./0.png
+-72.285301,18.449355,778,West,Kenscoff,2025/08/16 06:29:00-04,,1,[ 18 ],./0.png
+-72.285576,18.449284,780,West,Kenscoff,2025/08/16 08:21:00-04,,1,[ 18 ],./0.png
+-72.311244,18.584623,792,West,Cite Soleil,2025/08/18 11:48:00.559-04,b'Clash between gang and police',1,[ 18 ],./0.png
+-72.285851,18.450063,804,West,Kenscoff,2025/08/19 11:11:00.559-04,b'Clash between gang and police',1,[ 18 ],./0.png
+-72.287443,18.452047,807,West,Kenscoff,2025/08/19 19:45:00.933-04,,1,[ 18 ],./0.png
+-72.248849,18.580961,834,West,Tabarre,2025/08/23 18:11:00-04,b'Clash between gang and police',1,[ 18 ],./0.png
+-72.101933,18.832537,837,Centre,Mirebalais,2025/08/24 11:55:00-04,b'Confrontations between armed gang and the police / self-defense group.',1,[ 18 ],./0.png
+-72.16349,18.719029,842,Centre,Mirebalais,2025/08/25 07:51:00.248-04,b'Clash between gang and armed population',1,[ 18 ],./0.png
+-72.100216,18.833741,849,Centre,Mirebalais,2025/08/25 20:17:00-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.10128,18.832976,853,Centre,Mirebalais,2025/08/26 12:22:00.730-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.254883,18.522362,860,West,Petion-Ville,2025/08/27 08:26:00.627-04,,1,[ 18 ],./0.png
+-72.103881,18.834214,887,Centre,Mirebalais,2025/09/02 10:29:00.572-04,b'Clash between gang and police helped by armed population.',1,[ 18 ],./0.png
+-72.101864,18.83393,888,Centre,Mirebalais,2025/09/02 11:29:00.045-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.278319,18.596709,891,West,Tabarre,2025/09/02 18:08:00.312-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.304866,18.583119,893,West,Tabarre,2025/09/03 09:41:00.069-04,b'clash between gang and police',1,[ 18 ],./0.png
+-72.303785,18.58355,894,West,Tabarre,2025/09/03 10:49:00.482-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.100988,18.831728,898,Centre,Mirebalais,2025/09/04 08:35:00.112-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.311531,18.552549,907,West,Delmas,2025/09/05 12:23:00.363-04,b' Clash between gang and police',1,[ 18 ],./0.png
+-72.293944,18.455178,923,West,Kenscoff,2025/09/08 10:36:00.758-04,b'Gang members fired on the population from the mountains',1,[ 18 ],./0.png
+-72.311557,18.552229,936,West,Delmas,2025/09/09 18:36:00-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.293532,18.455746,964,West,Kenscoff,2025/09/13 19:47:00-04,b'Armed gang members held a party and fired into the air during the evening',4,[ 18 ],./0.png
+-72.286228,18.449837,966,West,Kenscoff,2025/09/14 10:49:00.299-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.104885,18.833483,981,Centre,Mirebalais,2025/09/15 20:34:00-04,b'Clash between gang and police',1,[ 18 ],./0.png
+-72.311123,18.489823,1009,West,Petion-Ville,2025/09/18 19:00:00-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.261045,18.525399,1010,West,Petion-Ville,2025/09/18 19:45:00-04,"b'lots of shooting at Metivier, Kago and the tunnel area / route des Freres / Clash between gang and  police helped by armed population.'",1,[ 18 ],./0.png
+-72.387749,18.985455,377,Artibonite,Verrettes,2025/06/23 19:53:00-04,b'Armed men in are',4,,./0.png
+-72.301186,18.574562,389,West,Tabarre,2025/06/24 20:35:00-04,b'Armed individuals driving a blue car killed (shooting) many people close to MSPP',4,,./0.png
+-72.29477,18.587803,390,West,Tabarre,2025/06/25 12:35:21.698-04,b'Armed men with a long rifle standing at the intersection',4,,./0.png
+-72.2676104307174,18.5302151124346,391,West,Petion-Ville,2025/06/25 13:30:00.043-04,b'Political protest at the CSPJ. Police on site',6,,./0.png
+-72.316247,18.532587,402,West,Port-au-Prince,2025/06/27 07:40:00.385-04,b'Armed members of the population blocked all entrances to Canape Vert throughout the day and shots were fired into the air several times.',6,,./0.png
+-72.316679,18.554515,403,West,Delmas,2025/06/27 10:53:00.676-04,b'Gang activity in progress between Delmas 11 & 13',4,,./0.png
+-72.300679,18.530533,405,West,Petion-Ville,2025/06/27 12:08:00.767-04,b'Burning tires at the corner of Delma 60 and John Brown.',7,,./0.png
+-72.34004,18.54455,408,West,Port-au-Prince,2025/06/27 14:02:00.629-04,,1,,./0.png
+-72.311299,18.55704,1050,West,Delmas,2025/09/22 12:31:00.265-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.311327,18.557109,1051,West,Delmas,2025/09/22 15:46:00.067-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.311319,18.556958,1057,West,Delmas,2025/09/23 20:46:00-04,b'Armed men in area.',4,[ 18 ],./0.png
+-72.312578,18.579944,1081,West,Delmas,2025/09/27 11:02:00.649-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.282572,18.455941,1085,West,Kenscoff,2025/09/27 20:05:00-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.104095,18.833792,1089,Centre,Mirebalais,2025/09/28 12:16:00.383-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.389568,18.991864,1100,Artibonite,Verrettes,2025/09/29 13:51:00.360-04,b'Clash between gang and police helped by armed population.',1,[ 18 ],./0.png
+-72.311334,18.557058,1104,West,Delmas,2025/10/01 09:06:00.269-04,b'Clash between gang and police .  ',1,[ 18 ],./0.png
+-72.101606,18.834068,1122,Centre,Mirebalais,2025/10/04 08:00:00-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.10516,18.834358,1162,Centre,Mirebalais,2025/10/09 11:55:00.406-04,b'Gang activity in progress',1,[ 18 ],./0.png
+-72.103615,18.831923,1179,Centre,Mirebalais,2025/10/12 08:15:00-04,b'Clash between gang and armed population.',1,[ 18 ],./0.png
+-72.103168,18.833086,1181,Centre,Mirebalais,2025/10/12 09:54:00-04,"b'Clash between gang and police helped by armed population. Throughout the day, gang members carried out attacks in several districts of the city, causing several casualties, including two police officers'",1,[ 18 ],./0.png
+-72.307102,18.906156,1217,Artibonite,La Chapelle,2025/10/17 11:03:00.547-04,b'Clash between gang and armed population.',1,[ 18 ],./0.png
+-71.941601,18.825407,1224,Centre,Lascahobas,2025/10/18 10:00:00.263-04,b'Clash between gang and police helped by armed population.',1,[ 18 ],./0.png
+-71.936726,18.827631,1225,Centre,Lascahobas,2025/10/18 12:08:00.366-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-71.941541,18.826202,1227,Centre,Lascahobas,2025/10/18 13:30:00.260-04,b'Clash between gang and police.',1,[ 18 ],./0.png
+-72.329109,18.534582,1237,West,Port-au-Prince,2025/10/20 13:02:00.673-04,"b'Following gang attacks in Turgeau area, members of the Canap\xc3\x83\xc2\xa9 Vert militia closed several roads to prevent gang members from passing.'",1,[ 18 ],./0.png
+-72.2635,18.57719,1291,West,Tabarre,2025/10/29 11:44:00.700-04,b'Confrontation between gang and police.',1,[ 18 ],./0.png
+-72.324412,18.529928,362,West,Port-au-Prince,2025/06/22 08:31:00.358-04,,1,"[ 4, 18 ]",./0.png
+-72.336355,18.541669,385,West,Port-au-Prince,2025/06/25 08:52:00.460-04,b'Confrontation between armed gangs and police',1,"[ 4, 18 ]",./0.png
+-72.338056,18.534167,392,West,Port-au-Prince,2025/06/25 14:30:00.469-04,b'Confrontation between armed gangs and the police',1,"[ 4, 18 ]",./0.png
+-72.338512,18.530185,393,West,Port-au-Prince,2025/06/25 16:55:00.842-04,b'Confrontation between armed gangs and police',1,"[ 4, 18 ]",./0.png
+-72.657695,19.43941,384,Artibonite,Gonaives,2025/06/25 08:00:00.309-04,b'Fuel tanker burning',4,,./0.png
+-72.215847,18.612165,421,West,Croix-Des-Bouquets,2025/07/01 12:01:00.101-04,b'Armed men in the area',4,,./0.png
+-72.227829,18.576503,437,West,Croix-Des-Bouquets,2025/07/04 07:23:00.368-04,b'Armed men in the area',4,,./0.png
+-72.312501,18.580286,468,West,Tabarre,2025/07/08 11:39:00.719-04,b'Armed men in the area',4,,./0.png
+-72.3129408370005,18.5798022850162,469,West,Delmas,2025/07/08 12:02:00.958-04,b'Armed men in the ara',4,,./0.png
+-72.286331,18.449739,472,West,Kenscoff,2025/07/09 09:51:00-04,,1,,./0.png
+-72.3370769619941,18.542706623854,395,West,Port-au-Prince,2025/06/25 21:45:00.410-04,b'Confrontation between armed gangs and the police',1,"[ 4, 18 ]",./0.png
+-72.3385565,18.5303105,396,West,Port-au-Prince,2025/06/26 07:59:52.358-04,b'Confrontation between armed gangs and the police / area Brigade',1,"[ 4, 18 ]",./0.png
+-72.338056,18.534167,398,West,Port-au-Prince,2025/06/26 19:00:00.674-04,b'Confrontation between armed gang and the police',1,"[ 4, 18 ]",./0.png
+-72.33941317,18.53547936,661,West,Port-au-Prince,2025/08/03 07:55:00-04,b'Clash between gang and police. ',1,"[ 4, 18 ]",./0.png
+-72.334532,18.53284,662,West,Port-au-Prince,2025/08/03 11:30:00-04,b'Confrontation between armed gangs and the police',1,"[ 4, 18 ]",./0.png
+-72.3387525,18.530033,664,West,Port-au-Prince,2025/08/03 20:35:00-04,b'Confrontation between armed gang and the police',1,"[ 4, 18 ]",./0.png
+-72.334542,18.543307,666,West,Port-au-Prince,2025/08/04 05:15:00-04,b'Clash between gang and police. ',1,"[ 4, 18 ]",./0.png
+-72.315016,18.553661,670,West,Delmas,2025/08/04 15:25:00-04,b'Confrontation between gang and police',1,"[ 4, 18 ]",./0.png
+-72.336195,18.541069,672,West,Port-au-Prince,2025/08/04 22:30:00-04,b'Confrontation between gang and police',1,"[ 4, 18 ]",./0.png
+-72.33870063,18.53010241,673,West,Port-au-Prince,2025/08/05 08:35:00-04,b'Confrontation between gang and the police',1,"[ 4, 18 ]",./0.png
+-72.337778,18.541111,679,West,Port-au-Prince,2025/08/05 17:20:00-04,b'Confrontation between armed gang and the police.',1,"[ 4, 18 ]",./0.png
+-72.338641,18.530302,680,West,Port-au-Prince,2025/08/05 17:40:00-04,b'Confrontation between armed gang and the police.',1,"[ 4, 18 ]",./0.png
+-72.3385565,18.5303105,682,West,Port-au-Prince,2025/08/06 07:50:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.33476758,18.54170978,688,West,Port-au-Prince,2025/08/06 19:00:00-04,b'Confrontation between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.339832,18.544751,690,West,Port-au-Prince,2025/08/07 02:45:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.338641,18.54291,692,West,Port-au-Prince,2025/08/07 05:55:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.33834,18.537529,695,West,Port-au-Prince,2025/08/07 07:45:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.33611941,18.54258456,704,West,Port-au-Prince,2025/08/07 14:25:00-04,b'Confrontation between armed gang and the police.',1,"[ 4, 18 ]",./0.png
+-72.33863,18.530073,707,West,Port-au-Prince,2025/08/07 17:15:00-04,b'Confrontation between armed gang and the police.',1,"[ 4, 18 ]",./0.png
+-72.33947217,18.54355089,708,West,Port-au-Prince,2025/08/07 18:00:00-04,b'Confrontations between armed gang and the police ongoing since the morning.',1,"[ 4, 18 ]",./0.png
+-72.336398,18.541608,711,West,Port-au-Prince,2025/08/08 05:20:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.335658,18.538546,713,West,Port-au-Prince,2025/08/08 07:50:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.33894646,18.54326608,714,West,Port-au-Prince,2025/08/08 08:10:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.33911544,18.53029141,715,West,Port-au-Prince,2025/08/08 11:30:00-04,b'Gang activities in progress.',4,"[ 4, 18 ]",./0.png
+-72.336409,18.54174,716,West,Port-au-Prince,2025/08/08 12:00:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.33885527,18.54451721,720,West,Port-au-Prince,2025/08/08 22:25:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.336409,18.54175,723,West,Port-au-Prince,2025/08/09 07:50:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.3394078,18.54505631,725,West,Port-au-Prince,2025/08/09 10:10:00-04,b'Confrontation between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.290194,18.534524,481,West,Delmas,2025/07/10 08:56:00-04,,1,,./0.png
+-72.30569,18.54787,483,West,Delmas,2025/07/10 14:29:00-04,b'The population blocked Delmas 32 for fear of a gang attack',7,,./0.png
+-72.296785,18.531801,497,West,Delmas,2025/07/12 19:47:00-04,b'The population blocked the area to prevent gangs from passing through.',7,,./0.png
+-72.263547,18.514744,510,West,Petion-Ville,2025/07/14 10:18:00-04,b'Gang activity in progress',1,,./0.png
+-72.236313,18.520993,518,West,Petion-Ville,2025/07/15 08:33:00-04,b'Gang activity in progress',1,,./0.png
+-72.316149,18.549818,522,West,Delmas,2025/07/16 18:12:00-04,,1,,./0.png
+-72.301858,18.547164,528,West,Delmas,2025/07/16 15:08:00-04,b'Gang activity in progress',1,,./0.png
+-72.305019,18.583074,529,West,Tabarre,2025/07/16 15:12:00-04,,1,,./0.png
+-72.33709574,18.53873955,728,West,Port-au-Prince,2025/08/10 07:40:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.33945608,18.5442324,731,West,Port-au-Prince,2025/08/10 13:15:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.33852535,18.52990485,732,West,Port-au-Prince,2025/08/11 08:55:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.33722448,18.54008226,733,West,Port-au-Prince,2025/08/11 09:50:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.33828932,18.53044908,737,West,Port-au-Prince,2025/08/11 12:35:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.31200904,18.55251202,740,West,Delmas,2025/08/11 16:00:00-04,b'Confrontation between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.33658075,18.54455789,745,West,Port-au-Prince,2025/08/12 12:20:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.333888,18.546185,747,West,Port-au-Prince,2025/08/12 18:40:00-04,b'Confrontation between armed gang and the police.',1,"[ 4, 18 ]",./0.png
+-72.33560979,18.55110838,748,West,Port-au-Prince,2025/08/12 20:50:00-04,b'Confrontation between gang and police / self-defense brigade.',1,"[ 4, 18 ]",./0.png
+-72.332826,18.543531,750,West,Port-au-Prince,2025/08/13 07:50:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.332611,18.543429,758,West,Port-au-Prince,2025/08/13 19:50:00-04,b'\nConfrontation between gang and police / self-defense brigade',1,"[ 4, 18 ]",./0.png
+-72.337965,18.53403,761,West,Port-au-Prince,2025/08/14 10:50:00-04,b'Clash between gang and police',1,"[ 4, 18 ]",./0.png
+-72.338310778141,18.5303015796176,764,West,Port-au-Prince,2025/08/14 13:15:00-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.3399844765663,18.5445884092029,768,West,Port-au-Prince,2025/08/14 22:25:00-04,b'Confrontation between gang and the police.',1,"[ 4, 18 ]",./0.png
+-72.338802,18.532738,771,West,Port-au-Prince,2025/08/15 10:35:00.842-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.3382678627968,18.5301591630576,774,West,Port-au-Prince,2025/08/15 13:45:00.570-04,b'Confrontation between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.338673,18.529991,776,West,Port-au-Prince,2025/08/15 17:40:00.381-04,b'Confrontation between gang and the police. Kamikaze drones used by the police.',1,"[ 4, 18 ]",./0.png
+-72.340068,18.53406,777,West,Port-au-Prince,2025/08/15 17:55:00.948-04,b'Clash between gang and police.',1,"[ 4, 18 ]",./0.png
+-72.677788,19.666707,841,Artibonite,Gros Morne,2025/08/24 17:24:00-04,b'The gang members kidnapped one person and killed two others',1,[ 9 ],./0.png
+-72.799813,19.779794,1005,North-West,Bassin Bleu,2025/09/18 13:12:00.012-04,b'Clash between gang and police.',1,[ 9 ],./0.png
+-72.799423,19.779988,1006,North-West,Bassin Bleu,2025/09/18 14:28:00.183-04,"b'The gang members attacked the police station, set it on fire, also killed a school teacher and then burned it in a public place.'",1,[ 9 ],./0.png
+-72.799564,19.779449,1018,North-West,Bassin Bleu,2025/09/19 12:18:00.176-04,b'Armed men across several streets',4,[ 9 ],./0.png
+-72.79929,19.780142,1022,North-West,Bassin Bleu,2025/09/19 17:13:00.188-04,b'Clash between gang and police. ',1,[ 9 ],./0.png
+-72.79929,19.780142,1025,North-West,Bassin Bleu,2025/09/19 17:13:00.188-04,b'clash between gang and police. ',1,[ 9 ],./0.png
+-72.79959,19.779853,1054,North-West,Bassin Bleu,2025/09/23 08:00:00.131-04,b'Armed men in area.',4,[ 9 ],./0.png
+-72.799582,19.780031,1094,North-West,Bassin Bleu,2025/09/29 07:32:00.406-04,b'Armed men in area',4,[ 9 ],./0.png
+-72.79929,19.779609,1207,North-West,Bassin Bleu,2025/10/16 12:49:00.979-04,b'Armed men in area.',4,[ 9 ],./0.png
+-72.694463,19.447372,993,Artibonite,Gonaives,2025/09/17 11:59:00.217-04,"b""A demonstration by people unhappy about Wilfort Ferdinand's killing yesterday / armed men and police officers were seen at the demonstration.""",6,[ 12 ],./0.png
+-72.305743,18.58667,535,West,Cite Soleil,2025/07/17 11:53:00-04,b'Armed men in are',4,,./0.png
+-72.311368,18.552837,544,West,Delmas,2025/07/19 13:03:00-04,b'Armed men in area',4,,./0.png
+-72.307377,18.549404,548,West,Delmas,2025/07/20 19:55:00-04,b'Armed men in area',4,,./0.png
+-72.318398,18.533055,555,West,Port-au-Prince,2025/07/22 07:17:00.055-04,b'Members of the armed population calling themselves Sang 9 barricaded the Canape Vert road which goes towards Paco and the Marriott hotel',7,,./0.png
+-72.285336,18.449551,560,West,Kenscoff,2025/07/22 15:10:00.239-04,b'Police operation during the afternoon with kamikaze drones',1,,./0.png
+-72.283103,18.517052,573,West,Petion-Ville,2025/07/23 16:04:00.632-04,b'A shopkeeper was shot dead by gunmen',1,,./0.png
+-72.30512,18.553018,574,West,Delmas,2025/07/23 16:35:00.761-04,b'A man was kidnapped by armed men',1,,./0.png
+-72.311934,18.553582,576,West,Delmas,2025/07/23 18:48:36.847-04,b'Armed men in Delmas 17 & 19 area.',4,,./0.png
+-72.304785,18.574737,577,West,Delmas,2025/07/23 17:51:00.820-04,"b""Armed men in Carrefour de L'aeroport area""",4,,./0.png
+-72.285542,18.449903,579,West,Kenscoff,2025/07/24 10:53:00.197-04,b'During the morning a police operation was carried out with kamikaze drones',4,,./0.png
+-72.241425,18.627101,581,West,Croix-Des-Bouquets,2025/07/24 20:47:00-04,b'gang activity in progress.',1,,./0.png
+-72.28962,18.512264,640,West,Petion-Ville,2025/07/31 07:41:00.661-04,b'Demonstration in front of the offices OAS',6,,./0.png
+-72.69486,19.447119,1012,Artibonite,Gonaives,2025/09/19 07:33:00.757-04,b'Burning tires in several streets of downtown Gonaives / Supporters of Wifort Ferdinand murdered two days ago demonstrate their anger',6,[ 12 ],./0.png
+-72.685204,19.450567,1060,Artibonite,Gonaives,2025/09/24 13:31:00.760-04,b'Demonstration with the armed men of Raboto gang at route des Dattes / burning tires / Supporters of Wifort Ferdinand murdered a week ago demonstrate their anger.',6,[ 12 ],./0.png
+-72.694838,19.447214,1238,Artibonite,Gonaives,2025/10/20 13:40:00.105-04,"b""Armed members of Raboto's gang were angry because the government commissioner was in the Gonaives civil court, even though they had demanded his dismissal following the death of Wilfort Ferdinand.""",6,[ 12 ],./0.png
+-72.72048,19.932606,717,North-West,Saint-Louis du Nord,2025/08/08 13:15:00-04,b'Clash between gang and police.',1,[ 17 ],./0.png
+-72.674389,19.6668,200,Artibonite,Gros Morne,2025/06/01 15:39:00.625-04,b'The Kokorat San Ras gang has kidnapped two people',5,,./0.png
+-72.690776,19.443703,231,Artibonite,Gonaives,2025/06/05 11:21:00.264-04,b'Thief was killed by the population',3,,./0.png
+-72.685684,19.437424,442,Artibonite,Gonaives,2025/07/04 15:53:00-04,b'Clash between police and BSAP agents at the BSAP base',1,,./0.png
+-72.674217,19.666998,686,Artibonite,Gros Morne,2025/08/06 13:45:00-04,,5,[ 9 ],./0.png
+-72.673822,19.666091,840,Artibonite,Gros Morne,2025/08/24 15:52:00-04,b'Gang members began shooting at houses and killing one man',1,[ 9 ],./0.png
+-72.694662,19.446861,995,Artibonite,Gonaives,2025/09/17 13:29:00.077-04,b'Protesters demand the resignation of the HNP departmental director.',6,[ 12 ],./0.png
+-72.690525,19.447489,1016,Artibonite,Gonaives,2025/09/19 10:24:00.341-04,b'Barricades are in place in in several streets of Raboto district',4,[ 12 ],./0.png
+-72.69425,19.446821,1019,Artibonite,Gonaives,2025/09/19 12:53:00.851-04,b'Demonstration in Raboto district',6,[ 12 ],./0.png
+-74.114072,18.644167,1268,Grande'Anse,Jeremie,2025/10/24 12:13:00.788-04,b'Demonstration in front of the courthouse in downtown Jeremie / burning tires / the population demands the release of a journalist called John Cadafy.',6,,./0.png
+-72.488042,19.147722,1,Artibonite,Petite Riviere de l'Artibonite,2025/05/01 15:17:00-04,,1,,./0.png
+-72.477081,19.120939,11,Artibonite,Petite Riviere de l'Artibonite,2025/05/03 10:13:00-04,,1,,./0.png
+-72.234009,19.731289,14,North,Cap-Haitien,2025/05/03 14:37:00-04,b'Police operation against gangs',1,,./0.png
+-72.475021,19.116949,27,Artibonite,Petite Riviere de l'Artibonite,2025/05/06 11:35:00-04,b'Gang activity in progress.',4,,./0.png
+-72.4772,19.12128,150,Artibonite,Petite Riviere de l'Artibonite,2025/05/26 11:15:00.068-04,b'Clash between gang and armed population',1,,./0.png
+-72.107164,18.827366,591,Centre,Mirebalais,2025/07/26 07:50:00.549-04,b'Armed men in area',4,,./0.png
+-72.066587,18.532204,596,West,Ganthier,2025/07/26 13:30:00-04,b'Armed men in area',4,,./0.png
+-72.305098,18.583239,615,West,Cite Soleil,2025/07/28 09:59:00.061-04,b'Armed men in area',4,,./0.png
+-72.22467,18.573462,622,West,Croix-Des-Bouquets,2025/07/29 07:49:00.737-04,b'Armed men in area',4,,./0.png
+-72.316132,18.549709,627,West,Delmas,2025/07/29 12:06:00.089-04,b'Police operation on going',1,,./0.png
+-72.293511,18.515531,639,West,Petion-Ville,2025/07/31 08:49:00.745-04,b'Protest movement and burning tires front of the Dominican Republic embassy / people demonstrate against racism.',6,,./0.png
+-72.719553,19.084004,613,Artibonite,Saint-Marc,2025/07/28 09:56:00.924-04,b'The population blocked the southern entrance to Saint Marc RN 1 / demanded the dismantling of gangs in the Artibonite department.',6,,./0.png
+-72.4677,19.04826,151,Artibonite,Verrettes,2025/05/26 11:30:00.295-04,b'Angry population because the police killed a young man.',6,,./0.png
+-72.4253,19.36058,157,Artibonite,Saint-Michel de l'Attalaye,2025/05/27 07:08:00.834-04,,1,,./0.png
+-72.5095,19.17736,160,Artibonite,Petite Riviere de l'Artibonite,2025/05/27 09:34:00.635-04,b'Armed men / gang activity in progress.',4,,./0.png
+-72.5542,19.18666,169,Artibonite,Dessalines,2025/05/28 07:47:00.366-04,"b'On several occasions in the early morning and during the day, gang members committed atrocities in the area, confronting the armed population.'",4,,./0.png
+-72.553,19.18457,174,Artibonite,Petite Riviere de l'Artibonite,2025/05/28 12:29:00.113-04,b'Clash between gang and armed population.',1,,./0.png
+-72.5527,19.18502,175,Artibonite,Petite Riviere de l'Artibonite,2025/05/28 09:01:00.152-04,,1,,./0.png
+-72.5529,19.18447,176,Artibonite,Petite Riviere de l'Artibonite,2025/05/28 10:51:00.599-04,,1,,./0.png
+-72.617088,19.149658,215,Artibonite,Saint-Marc,2025/06/03 15:57:00.475-04,"b""Population blocked the DR11 / they are asking the authorities to dismantle Savien's gang""",6,,./0.png
+-72.635499,19.436953,230,Artibonite,Gonaives,2025/06/05 08:58:00.700-04,b'The population blocked the RN1 at the village of Trois Ponts / they demand the dismantling of gangs in the Artibonite and the replacement of the PNH departmental director of the Artibonite.',6,,./0.png
+-72.537437,19.124311,235,Artibonite,Verrettes,2025/06/05 10:37:00.508-04,,7,,./0.png
+-72.614239,19.151975,238,Artibonite,Saint-Marc,2025/06/05 15:27:00.588-04,b'Clash between gang and police assisted by the armed population.',1,,./0.png
+-72.615183,19.150341,242,Artibonite,Saint-Marc,2025/06/06 10:06:00-04,"b'For part of the day, the population is still blocking the RN1 / they are demanding the dismantling of gangs in Artibonite / Police on site to try to lift the blockade.'",7,,./0.png
+-72.553265,19.183133,248,Artibonite,Petite Riviere de l'Artibonite,2025/06/07 08:41:00-04,b'Clash between gang and armed population.',1,,./0.png
+-72.46431,19.111773,308,Artibonite,Petite Riviere de l'Artibonite,2025/06/13 10:14:00.050-04,b'Armed men in the villages of Guetot and Pont-Benoit  / gang activity in progress.',4,,./0.png
+-72.53742,19.124687,340,Artibonite,Verrettes,2025/06/18 18:39:33.004-04,b'Armed men at Dwet locality / Liancourt',4,,./0.png
+-72.518143,19.427907,370,Artibonite,Gonaives,2025/06/22 21:02:00-04,"b""Members of Savien's gang attacked the village and the police station""",1,,./0.png
+-72.615955,19.150064,380,Artibonite,Saint-Marc,2025/06/24 08:11:00.995-04,b'The population has put up barricades on RN1 in Pont Sonde',7,,./0.png
+-72.483702,19.124967,431,Artibonite,Petite Riviere de l'Artibonite,2025/07/03 11:16:00-04,b'Presence of several hundred angry people / they want the defense equipment allocated to the police to remain on site / the Departmental Director of the PNH gave the order to move them elsewhere.',6,,./0.png
+-72.605999,19.309734,561,Artibonite,L'Estere,2025/07/22 16:53:00.005-04,b'Ppopulation and resistance teams of Gonaives blocked the RN1 at Lestere and La Croix Perisse.',4,,./0.png
+-72.608093,19.305569,567,Artibonite,L'Estere,2025/07/23 08:17:00.901-04,b'Population has installed a roadblock on the RN1 at the Estere level to control all vehicles crossing',7,,./0.png
+-72.536957,19.120972,606,Artibonite,Verrettes,2025/07/27 14:10:00-04,b'Shooting in Liancourt close to the police station / gang actuvity in progress.',1,,./0.png
+-72.533318,19.123769,623,Artibonite,Verrettes,2025/07/29 08:21:00.234-04,,1,,./0.png
+-72.100748,18.834116,644,Centre,Mirebalais,2025/07/31 18:25:00.093-04,b'Police operation underway in the city with kamikaze drones',4,,./0.png
+-72.107104,18.827179,646,Centre,Mirebalais,2025/08/01 07:49:00.095-04,b'Armed med in area',4,,./0.png
+-72.311183,18.55404,650,West,Delmas,2025/08/01 15:07:00.666-04,b'Police operation on going in Delmas 17 & 19 area ',4,,./0.png
+-72.303858,18.573503,654,West,Delmas,2025/08/01 21:37:00-04,,1,,./0.png
+-72.291528,18.534207,657,West,Delmas,2025/08/02 23:36:00.681-04,b'Armed men kidnapped a person in Delmas 75 and left with his own vehicle',5,,./0.png
+-72.300607,18.530408,668,West,Petion-Ville,2025/08/04 11:45:00-04,b'Lacrymogen gas sued by the police against protesters (from CNE)',6,,./0.png
+-72.311615,18.552197,674,West,Delmas,2025/08/05 09:25:00-04,b'Armed men',4,,./0.png
+-72.311593,18.552207,676,West,Delmas,2025/08/05 10:20:00-04,b'Armed men reported',4,,./0.png
+-72.305,18.585833,677,West,Cite Soleil,2025/08/05 12:25:00-04,,1,,./0.png
+-72.316732,18.545545,691,West,Port-au-Prince,2025/08/07 03:30:00-04,b'Clash between gang and police.',1,,./0.png
+-72.628487,19.151438,614,Artibonite,Saint-Marc,2025/07/28 10:41:00.953-04,b'The population blocked the RN1 at Pont Sond\xc3\xa9 / demanded the dismantling of gangs in the Artibonite department.',6,,./0.png
+-72.53624,19.124249,624,Artibonite,Verrettes,2025/07/29 09:11:00.764-04,b'Armed men in area',4,,./0.png
+-72.533339,19.123536,630,Artibonite,Verrettes,2025/07/29 20:22:00-04,,1,,./0.png
+-72.550518,19.123421,632,Artibonite,Verrettes,2025/07/30 12:03:00.702-04,"b""Gang activity in progress, Savien's gang members looted houses abandoned by the population in some areas of the city""",4,,./0.png
+-72.536751,19.12188,638,Artibonite,Verrettes,2025/07/31 08:23:00.146-04,,1,,./0.png
+-72.536298,19.121774,665,Artibonite,Verrettes,2025/08/03 20:30:00-04,b'Confrontation between gang and police / self-defense group.',1,,./0.png
+-72.53571,19.124081,906,Artibonite,Verrettes,2025/09/05 09:22:00.528-04,b'Clash between gang and armed population.',1,[ 4 ],./0.png
+-72.458473,19.049514,1228,Artibonite,Verrettes,2025/10/18 14:51:00.358-04,b'Lots of shooting at Chandelle / Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.536407,19.122609,1220,Artibonite,Verrettes,2025/10/17 15:16:00.943-04,b' Clash between gang and police.',1,[ 6 ],./0.png
+-72.535652,19.11987,586,Artibonite,Verrettes,2025/07/25 10:38:00-04,"b'For much of the day, fighting raged in the city between gangs and police, helped by the armed population.'",1,[ 6 ],./0.png
+-72.537403,19.121782,587,Artibonite,Verrettes,2025/07/25 12:21:00-04,"b'For much of the day, fighting raged in the city between gangs and police, helped by the armed population.'",1,[ 6 ],./0.png
+-72.535556,19.12,589,Artibonite,Verrettes,2025/07/25 21:52:00-04,,1,[ 6 ],./0.png
+-72.536871,19.122186,593,Artibonite,Verrettes,2025/07/26 08:27:00.560-04,b'Gang members fired sporadically toward the police station for much of the day',4,[ 6 ],./0.png
+-72.537309,19.124272,594,Artibonite,Verrettes,2025/07/26 12:13:00.068-04,b'Gang members fired sporadically toward the police station for much of the day',4,[ 6 ],./0.png
+-72.533365,19.123627,612,Artibonite,Verrettes,2025/07/28 08:13:00.918-04,,1,[ 6 ],./0.png
+-72.537463,19.124342,631,Artibonite,Verrettes,2025/07/30 07:59:00.828-04,,1,[ 6 ],./0.png
+-72.53706,19.122301,647,Artibonite,Verrettes,2025/08/01 08:07:00.363-04,b'Clash between gang and police helped by armed population.',1,[ 6 ],./0.png
+-72.533337,19.12358,649,Artibonite,Verrettes,2025/08/01 12:48:00.200-04,,1,[ 6 ],./0.png
+-72.533322,19.1235,655,Artibonite,Verrettes,2025/08/01 20:36:00-04,,1,[ 6 ],./0.png
+-72.53579,19.121751,658,Artibonite,Verrettes,2025/08/02 13:06:00.135-04,b'Clash between gang and police helped by armed population.',1,[ 6 ],./0.png
+-72.53651,19.122639,660,Artibonite,Verrettes,2025/08/02 18:40:00.478-04,,1,[ 6 ],./0.png
+-72.53716439,19.12282819,663,Artibonite,Verrettes,2025/08/03 15:50:00-04,b'Confrontation between armed gang and the police helped by armed population',1,[ 6 ],./0.png
+-72.536667,19.122778,557,Artibonite,Verrettes,2025/07/22 12:13:00.706-04,,1,"[ 6, 13 ]",./0.png
+-72.539753,19.12447,671,Artibonite,Verrettes,2025/08/04 20:00:00-04,b'Confrontation between gang and the police / self-defense group (armed)',1,[ 6 ],./0.png
+-72.53706,19.121815,678,Artibonite,Verrettes,2025/08/05 16:40:00-04,b'Confrontation between gang and police / self-defense group.',1,[ 6 ],./0.png
+-72.28608,18.449537,694,West,Kenscoff,2025/08/07 07:35:00-04,b'Clash between gang and police.',1,,./0.png
+-72.240858,18.615206,696,West,Croix-Des-Bouquets,2025/08/07 08:25:00-04,b'Presence of armed men reported',4,,./0.png
+-72.30531156,18.54792471,697,West,Delmas,2025/08/07 10:25:00-04,b'The population has blocked Delmas 32. Passage not possible.',6,,./0.png
+-72.31468856,18.5522374,699,West,Delmas,2025/08/07 11:40:00-04,,1,,./0.png
+-72.333212,18.576372,700,West,Cite Soleil,2025/08/07 11:45:00-04,b'Clash between gang and police.',1,,./0.png
+-71.95246696,18.8096305,703,Centre,Lascahobas,2025/08/07 14:25:00-04,b'Confrontation between armed gang and police supported by BSAP and self-defense group.',1,,./0.png
+-72.18996,18.65698,709,West,Thomazeau,2025/08/07 21:25:00-04,b'Armed men reported',4,,./0.png
+-72.30494678,18.54792471,712,West,Delmas,2025/08/08 07:05:00-04,,1,,./0.png
+-72.066708,18.530887,718,West,Ganthier,2025/08/08 13:55:00-04,b'Armed men presence reported',4,,./0.png
+-71.942167,18.825473,719,Centre,Lascahobas,2025/08/08 17:05:00-04,b'Presence of armed men reported',4,,./0.png
+-72.239506,18.583013,722,West,Croix-Des-Bouquets,2025/08/09 07:35:00-04,b'Presence of armed men reported',4,,./0.png
+-72.314276,18.532992,724,West,Port-au-Prince,2025/08/09 08:45:00-04,b'The population blocked Canape-Vert road access.',6,,./0.png
+-72.300736,18.530398,734,West,Petion-Ville,2025/08/11 11:35:00-04,"b""Small demonstration in front of the Villa d'Acceuil""",6,,./0.png
+-72.33828932,18.53044908,738,West,Port-au-Prince,2025/08/11 13:55:00-04,b'Clash between gang and police.',1,,./0.png
+-72.536459,19.121328,683,Artibonite,Verrettes,2025/08/06 08:15:00-04,,1,[ 6 ],./0.png
+-72.537392,19.124328,685,Artibonite,Verrettes,2025/08/06 12:55:00-04,,1,[ 6 ],./0.png
+-72.537199,19.123041,687,Artibonite,Verrettes,2025/08/06 17:00:00-04,b'Confrontation between gang and police / self-defense group.',1,[ 6 ],./0.png
+-72.5387764,19.13900574,735,Artibonite,Verrettes,2025/08/11 11:45:00-04,b'Gang activity in progress',4,[ 6 ],./0.png
+-72.52264023,19.13446483,741,Artibonite,Verrettes,2025/08/11 18:20:00-04,b'Confrontation between gang and police.',1,[ 6 ],./0.png
+-72.5374889373779,19.1252204625273,770,Artibonite,Verrettes,2025/08/15 09:00:00.179-04,b'Clash between gang and police supported by self-defense group',1,[ 6 ],./0.png
+-72.537414,19.124247,775,Artibonite,Verrettes,2025/08/15 13:00:00.618-04,b'Close to the police station',1,[ 6 ],./0.png
+-72.53651,19.122431,795,Artibonite,Verrettes,2025/08/18 15:51:00.432-04,b'Gang activity in progress in the districts of Savane Tapoin and Marseille / Liancourt.',4,[ 6 ],./0.png
+-72.537025,19.122068,803,Artibonite,Verrettes,2025/08/19 10:20:00.328-04,b'Security situation and armed men in the districts of Marseille / Liancourt / gang activity in progress.',4,[ 6 ],./0.png
+-72.542109,19.126145,857,Artibonite,Verrettes,2025/08/26 18:12:00.043-04,b'Gang members shoot in the air to scare the population',4,[ 6 ],./0.png
+-72.536442,19.12472,867,Artibonite,Verrettes,2025/08/28 14:10:00.152-04,b'Armed men in the area of Morne Tapion district',4,[ 6 ],./0.png
+-72.536545,19.123373,901,Artibonite,Verrettes,2025/09/04 12:30:00.020-04,b'Gang activity in progress.',1,[ 6 ],./0.png
+-72.537369,19.122395,902,Artibonite,Verrettes,2025/09/04 15:51:00.304-04,b'Clash between gang and police.',1,[ 6 ],./0.png
+-72.53698,19.123136,905,Artibonite,Verrettes,2025/09/05 08:32:00.344-04,b'Armed men in area.',4,[ 6 ],./0.png
+-72.536562,19.127683,919,Artibonite,Verrettes,2025/09/07 10:34:00.128-04,"b'Gang members are in the neighborhood around the church, scaring the Pious population and burning down some houses.'",4,[ 6 ],./0.png
+-72.536566,19.127822,926,Artibonite,Verrettes,2025/09/08 13:09:00.532-04,b'Gang members shot at the population and set fire to several houses.',1,[ 6 ],./0.png
+-72.536613,19.122008,944,Artibonite,Verrettes,2025/09/10 12:01:00.614-04,b'Clash between gang and police helped by armed population.',1,[ 6 ],./0.png
+-72.533312,19.12354,948,Artibonite,Verrettes,2025/09/10 19:57:00.035-04,b'Gang activity in progress.',1,[ 6 ],./0.png
+-72.35726595,18.5345079,742,West,Port-au-Prince,2025/08/11 19:30:00-04,b'Confrontation between gang and police',1,,./0.png
+-72.613621,18.511435,743,West,Leogane,2025/08/12 09:05:00-04,b'Violent demonstration with stone throwing. The population is angry following the transfer of the police commissioner to the area.',6,,./0.png
+-72.2870349884033,18.4488352209867,749,West,Kenscoff,2025/08/13 07:20:00-04,b'Clash between gang and police',1,,./0.png
+-72.308074,18.549542,753,West,Delmas,2025/08/13 09:15:00-04,b'Kidnapping attempt countered by the police',1,,./0.png
+-72.3071113228798,18.5497810120381,755,West,Delmas,2025/08/13 13:55:00-04,b'Confrontation between gang and the police.',1,,./0.png
+-72.30536,18.547823,756,West,Delmas,2025/08/13 14:45:00-04,,1,,./0.png
+-72.613213,18.511761,762,West,Leogane,2025/08/14 11:40:00-04,b'The population refuses the change of police commissioner of the city / passage impossible for the moment.',6,,./0.png
+-72.097520828247,18.830753371357,763,Centre,Mirebalais,2025/08/14 12:05:00-04,b'Clash between gang and police helped by armed population.',1,,./0.png
+-72.3386165499687,18.5433881376992,769,West,Port-au-Prince,2025/08/15 00:10:00.698-04,b'Clash between gang and police.',1,,./0.png
+-72.282926,18.517031,772,West,Petion-Ville,2025/08/15 12:30:00.302-04,b'The police killed two gang members carrying HNP uniform and munitions. They were on a motorcycle',1,,./0.png
+-72.6232606172561,18.5078033789571,773,West,Leogane,2025/08/15 12:30:00.695-04,b'The population refuses to let the police commissioner leave.',6,,./0.png
+-72.227694,18.577314,781,West,Croix-Des-Bouquets,2025/08/16 08:35:00-04,b'Armed men in area',4,,./0.png
+-72.533386,19.123331,972,Artibonite,Verrettes,2025/09/15 08:22:00.688-04,b'Gang members are in much of the city waging battles against the population / Gang activity in progress.',1,[ 6 ],./0.png
+-72.533343,19.123563,973,Artibonite,Verrettes,2025/09/15 09:36:00.347-04,b'Gang members are in much of the city waging battles against the population / Gang activity in progress.',1,[ 6 ],./0.png
+-72.537643,19.122756,977,Artibonite,Verrettes,2025/09/15 12:36:00.797-04,b'Clash between gang and armed population.',1,[ 6 ],./0.png
+-72.533305,19.123578,980,Artibonite,Verrettes,2025/09/15 20:14:00-04,b'Gang members shoot towards the police station to scare the population',4,[ 6 ],./0.png
+-72.533322,19.123426,983,Artibonite,Verrettes,2025/09/16 08:31:00.028-04,b'Gang activity in progress',1,[ 6 ],./0.png
+-72.533403,19.123529,989,Artibonite,Verrettes,2025/09/16 16:07:00.130-04,b'Clash between gang and armed population.',1,[ 6 ],./0.png
+-72.53603,19.122898,996,Artibonite,Verrettes,2025/09/17 14:25:00.877-04,b'Clash between gang and police helped by armed population.',1,[ 6 ],./0.png
+-72.536888,19.122819,1023,Artibonite,Verrettes,2025/09/19 19:54:00-04,b'Clash between gang and armed population.',1,[ 6 ],./0.png
+-72.536888,19.122819,1026,Artibonite,Verrettes,2025/09/19 19:54:00-04,b'Clash between gang and armed population.',1,[ 6 ],./0.png
+-72.536639,19.12419,1101,Artibonite,Verrettes,2025/09/29 15:04:00.846-04,b'Clash between gang and armed population.',1,[ 6 ],./0.png
+-72.536854,19.122512,1102,Artibonite,Verrettes,2025/10/01 07:54:00.428-04,b'Shooting at Chandelle\xc2\xa0and\xc2\xa0Payen district in Liancourt  / Clash between gang and police helped by armed population. ',1,[ 6 ],./0.png
+-72.536339,19.123468,1107,Artibonite,Verrettes,2025/10/01 12:30:00.496-04,b'Clash between gang and police helped by armed population. ',1,[ 6 ],./0.png
+-72.536819,19.122342,1110,Artibonite,Verrettes,2025/10/02 08:21:00.785-04,b'Gang members shoot in the air to scare the population',1,[ 6 ],./0.png
+-72.536442,19.122076,1113,Artibonite,Verrettes,2025/10/02 20:04:00-04,b'Shooting at Chandelle\xc2\xa0and\xc2\xa0Tapyon  district in Liancourt',8,[ 6 ],./0.png
+-72.536888,19.123322,1115,Artibonite,Verrettes,2025/10/03 08:20:00.846-04,b'Gang activity in progress.',1,[ 6 ],./0.png
+-72.536819,19.122013,1118,Artibonite,Verrettes,2025/10/03 12:29:00.224-04,b'Gang activity in progress',1,[ 6 ],./0.png
+-72.530674,19.120889,1120,Artibonite,Verrettes,2025/10/03 15:25:00.182-04,b'Clash between gang and armed population.',1,[ 6 ],./0.png
+-72.534588,19.121959,1128,Artibonite,Verrettes,2025/10/04 12:44:00-04,b'Clash between gang and police helped by armed population.',1,[ 6 ],./0.png
+-72.296661,18.556245,791,West,Delmas,2025/08/18 08:44:00.884-04,b'Armed men kidnapped a person',4,,./0.png
+-72.316632,18.550738,793,West,Delmas,2025/08/18 12:37:00.795-04,b'Clash between gang and police / police operation in progress with kamikaze drone',1,,./0.png
+-72.239635,18.583328,799,West,Croix-Des-Bouquets,2025/08/18 20:02:00-04,b'Armed men in area',4,,./0.png
+-72.280246,18.447192,806,West,Kenscoff,2025/08/19 11:23:00.537-04,b'Armed men in Douwet neighbourhood in Kenskoff',4,,./0.png
+-72.165361,18.718219,813,Centre,Mirebalais,2025/08/21 08:15:00.138-04,b'Clash between armed population and gang.',1,,./0.png
+-72.288554,18.531322,817,West,Delmas,2025/08/21 13:06:00.255-04,b'The population is demonstrating against the young man killed earlier this week in front of the Ministry of National Education by a security guard.',6,,./0.png
+-72.300566,18.530761,818,West,Port-au-Prince,2025/08/21 14:02:00.759-04,"b""Aggressive demonstration in front of the Prime Minister's office""",6,,./0.png
+-72.233691,18.578167,820,West,Croix-Des-Bouquets,2025/08/21 08:04:00.465-04,b'Armed men in area',4,,./0.png
+-72.300691,18.530512,825,West,Petion-Ville,2025/08/22 11:11:00-04,"b""demonstration in front of the Prime Minister's office""",6,,./0.png
+-72.066158,18.531632,832,West,Ganthier,2025/08/23 12:54:00-04,b'Armed men in area',4,,./0.png
+-72.206818,19.750301,815,North,Cap-Haitien,2025/08/21 12:28:00.923-04,b'Burning tires at the Carrefour Samaria / Pitit Dessalines activists protest against the choice of magistrates',6,,./0.png
+-72.206944,19.750278,822,North,Cap-Haitien,2025/08/21 20:58:00-04,b'Burning tires at the Carrefour Samaria / Pitit Dessalines activists protest against the choice of magistrates',6,,./0.png
+-72.220792,19.736066,826,North,Cap-Haitien,2025/08/22 13:10:00-04,b'Burning tires at Vertieres IN front of historical monuments by Pitit Dessalines activists.',6,,./0.png
+-72.536339,19.122462,1155,Artibonite,Verrettes,2025/10/08 13:31:00-04,b'Clash between gang and armed population.',1,[ 6 ],./0.png
+-72.528992,19.115975,1160,Artibonite,Verrettes,2025/10/09 09:39:00.131-04,b'Shooting in Estral district  in Liancourt / Gang activity in progress.',1,[ 6 ],./0.png
+-72.537952,19.122369,1165,Artibonite,Verrettes,2025/10/09 13:43:00.449-04,b'Clash between gang and armed population.',1,[ 6 ],./0.png
+-72.537952,19.121686,1187,Artibonite,Verrettes,2025/10/13 12:38:00.207-04,b'Armed men in Savane Tapion district in Liancourt',4,[ 6 ],./0.png
+-72.537369,19.122732,1197,Artibonite,Verrettes,2025/10/14 09:44:00.256-04,b'Armed men in Savane Tapion district in Liancourt',4,[ 6 ],./0.png
+-72.535343,19.124068,1244,Artibonite,Verrettes,2025/10/21 12:04:00.444-04,b'Gang members kidnapped several vendors at the Savane Tapion market.',5,[ 6 ],./0.png
+-72.536389,19.121667,1256,Artibonite,Verrettes,2025/10/22 16:08:00.866-04,b'Gang members shoot to scare the population',1,[ 6 ],./0.png
+-72.608385,19.305392,1280,Artibonite,L'Estere,2025/10/25 18:17:00-04,b'Clash between gang and police.',1,[ 9 ],./0.png
+-72.608505,19.305257,543,Artibonite,L'Estere,2025/07/19 08:45:00-04,,1,[ 9 ],./0.png
+-72.608385,19.304792,563,Artibonite,L'Estere,2025/07/22 17:13:00.986-04,b'Gang members killed several young men in the village',1,[ 9 ],./0.png
+-72.536819,19.119943,565,Artibonite,Verrettes,2025/07/22 20:16:00-04,,1,[ 9 ],./0.png
+-72.537094,19.121236,604,Artibonite,Verrettes,2025/07/27 09:56:00-04,,1,[ 9 ],./0.png
+-72.48684883,19.14500603,746,Artibonite,Petite Riviere de l'Artibonite,2025/08/12 13:10:00-04,b'Toll boot setup by gang on RN1',2,[ 9 ],./0.png
+-72.584953,19.360466,751,Artibonite,L'Estere,2025/08/13 08:10:00-04,b'Gang setting up checkpoint',2,[ 9 ],./0.png
+-72.587631,19.337815,1038,Artibonite,L'Estere,2025/09/21 10:48:00-04,b'Clash between gang and armed population.',1,[ 9 ],./0.png
+-72.584885,19.358987,1041,Artibonite,L'Estere,2025/09/21 13:21:00-04,b'Clash between gang and police helped by armed population',1,[ 9 ],./0.png
+-72.608153,19.305272,1046,Artibonite,L'Estere,2025/09/22 10:33:00.802-04,b'Clash between gang and police helped by armed population.\n',1,[ 9 ],./0.png
+-72.316775,18.545502,838,West,Port-au-Prince,2025/08/24 11:56:00-04,b'Armed men in area',4,,./0.png
+-72.316599,18.545457,839,West,Port-au-Prince,2025/08/24 14:52:00-04,b'Armed men at rue CoDada / Christ Roi ',4,,./0.png
+-72.276426,18.515666,844,West,Petion-Ville,2025/08/25 08:10:00.566-04,b'A man was shot dead in the city center.',1,,./0.png
+-72.287181,18.451814,845,West,Kenscoff,2025/08/25 10:44:00.841-04,b'Confrontation between gang and police',1,,./0.png
+-72.104645,18.831337,847,Centre,Mirebalais,2025/08/25 13:54:00.714-04,b'Confrontations between gang and the police helped by the self-defense group.',1,,./0.png
+-72.316964,18.545551,855,West,Port-au-Prince,2025/08/26 16:19:00.795-04,b'There was an altercation between police officers from Solino and Christ-Roi and they shot each other / no further information on this subject',3,,./0.png
+-72.272444,18.471093,858,West,Petion-Ville,2025/08/27 07:16:00.211-04,b'Clash between  gang and armed population in Greffin area',1,,./0.png
+-72.314127,18.587987,863,West,Cite Soleil,2025/08/28 07:37:00.576-04,,1,,./0.png
+-72.331143,18.531798,866,West,Port-au-Prince,2025/08/28 13:28:00.252-04,b'Police killed two people on a motorcycle.',1,,./0.png
+-72.269036,18.628537,872,West,Croix-Des-Bouquets,2025/08/30 12:08:00.073-04,b'Armed men in area',4,,./0.png
+-72.340025,18.532992,874,West,Port-au-Prince,2025/08/31 07:36:00.456-04,b'sporadic Rafale fire on police vehicles',1,,./0.png
+-72.340027,18.532766,875,West,Port-au-Prince,2025/08/31 09:13:00.664-04,"b'Police operation underway in a large part of the city center with kamikaze drone / Salomon Market, Cameau Alley and Route des Dalles area'",1,,./0.png
+-72.328036,18.540277,877,West,Port-au-Prince,2025/08/31 13:45:00.800-04,b'peaceful march for residents to return to their homes.\nThe police quickly put an end to the gathering.',6,,./0.png
+-72.311003,18.555272,881,West,Delmas,2025/09/01 12:39:00.006-04,b'The population barricaded Le Jeune Street and the police removed the barricades.',6,,./0.png
+-72.305017,18.582983,883,West,Tabarre,2025/09/01 13:58:00.241-04,b'Armed men in area.',4,,./0.png
+-72.204359,19.751618,851,North,Cap-Haitien,2025/08/26 09:00:00.283-04,b'Burning tires at rue 0.A / Pitit Dessalines activists and population angry at the installation of certain new members in the town hall',6,,./0.png
+-72.536442,19.122624,878,Artibonite,Verrettes,2025/08/31 15:26:00.433-04,b'Clash between gang and armed population in Potri district',1,,./0.png
+-72.536476,19.121321,879,Artibonite,Verrettes,2025/09/01 09:52:00.274-04,b'Armed men in Marseille and Marou district /  gang activity in progress.',4,,./0.png
+-72.537369,19.12181,880,Artibonite,Verrettes,2025/09/01 12:52:00.653-04,b'armed men in Marseille district / gang activity in progress.',1,,./0.png
+-72.607458,19.305651,1048,Artibonite,L'Estere,2025/09/22 11:44:00.618-04,b'Clash between gang and police helped by armed population.',1,[ 9 ],./0.png
+-72.541583,19.126624,1061,Artibonite,Verrettes,2025/09/24 19:27:00.836-04,b'Gang members shoot to scare the population.',1,[ 9 ],./0.png
+-72.616573,19.150962,357,Artibonite,Saint-Marc,2025/06/21 10:04:00-04,b'Armed men in area',4,[ 13 ],./0.png
+-72.596489,19.204043,430,Artibonite,Dessalines,2025/07/03 08:06:00.746-04,b'RN1 is blocked at Carrefour Villard by gang members.',7,[ 13 ],./0.png
+-72.596292,19.202987,445,Artibonite,Dessalines,2025/07/05 08:03:00-04,b'RN1 is blocked at Carrefour Villard by gang members',7,[ 13 ],./0.png
+-72.295072,18.559732,886,West,Delmas,2025/09/02 10:26:00.991-04,b'A man was shot dead and then the body was burned',1,,./0.png
+-72.3722,18.529505,889,West,Carrefour,2025/09/02 16:22:00.639-04,b'Police operation with kamikaze drone on a gang toll point',4,,./0.png
+-72.286966,18.535524,896,West,Delmas,2025/09/03 16:43:00.416-04,b'A man was kidnapped in the area by four marmots in a white car',5,,./0.png
+-72.337426,18.536444,916,West,Port-au-Prince,2025/09/06 17:26:00.930-04,b'Police conduct operations with suicide drones during the late afternoon.',1,,./0.png
+-72.513817,18.772535,917,West,Arcahaie,2025/09/06 17:36:00.018-04,b'Clash between gang and police.',1,,./0.png
+-72.3008,18.530669,924,West,Port-au-Prince,2025/09/08 11:47:00.179-04,"b""Demonstration in front of the Prime Minister's office / Police use tear gas to disperse the crowd.""",6,,./0.png
+-72.271302,18.516652,925,West,Petion-Ville,2025/09/08 12:05:00.177-04,b'Demonstration in front of OIM',6,,./0.png
+-72.305832,18.551828,928,West,Delmas,2025/09/08 21:52:00-04,b'Armed individuals on a motorcycle killed a man in front of the town hall.',1,,./0.png
+-72.518143,19.260743,534,Artibonite,Dessalines,2025/07/17 09:06:00-04,b'Gang activity in progress',4,[ 13 ],./0.png
+-72.538536,19.123367,536,Artibonite,Verrettes,2025/07/17 11:56:00-04,,1,[ 13 ],./0.png
+-72.537849,19.124309,537,Artibonite,Verrettes,2025/07/17 18:09:00-04,,1,[ 13 ],./0.png
+-72.515808,19.270525,541,Artibonite,Dessalines,2025/07/17 21:48:00-04,"b'Several times during the day, gang members carried out harassment attacks on the population, with no police reinforcements during the day or night.'",1,[ 13 ],./0.png
+-72.537781,19.12321,551,Artibonite,Verrettes,2025/07/21 12:04:00.840-04,,1,[ 13 ],./0.png
+-72.537395,19.123274,559,Artibonite,Verrettes,2025/07/22 14:56:00.084-04,b'Savien gangs set fire to a police armored vehicle and killed 3 police officers',1,[ 13 ],./0.png
+-72.537231,19.123946,562,Artibonite,Verrettes,2025/07/22 16:53:00.742-04,"b'Fighting lasted for most of the afternoon between the gang, the police, and members of the coalition and the armed population.'",1,[ 13 ],./0.png
+-72.537369,19.120968,597,Artibonite,Verrettes,2025/07/26 14:37:00-04,b'Clash between gang and police helped by armed population',1,[ 13 ],./0.png
+-72.536944,19.121389,607,Artibonite,Verrettes,2025/07/27 20:34:00-04,,1,[ 13 ],./0.png
+-72.536957,19.119206,643,Artibonite,Verrettes,2025/07/31 15:20:00.237-04,b'Clash between gang and police helped by armed population.',1,[ 13 ],./0.png
+-72.537712,19.121621,645,Artibonite,Verrettes,2025/07/31 19:13:00.397-04,b'Clash between gang and police helped by armed population.',1,[ 13 ],./0.png
+-72.53651,19.12262,1055,Artibonite,Verrettes,2025/09/23 08:03:00.531-04,b'Clash between gang and police.',1,[ 13 ],./0.png
+-72.5373,19.12184,549,Artibonite,Verrettes,2025/07/20 20:04:00-04,,1,[ 14 ],./0.png
+-72.479897,19.057085,381,Artibonite,Verrettes,2025/06/24 13:17:00.342-04,b'Armed men in the area of Milano',4,"[ 1, 14 ]",./0.png
+-72.537146,19.124572,394,Artibonite,Verrettes,2025/06/25 18:00:00.266-04,b'Confrontations between gangs',4,"[ 1, 14, 16 ]",./0.png
+-72.713493,18.95547,84,Artibonite,Saint-Marc,2025/05/16 08:52:00.499-04,b'RN1 is blocked by armed men in Montrouis / trucks crossing the road',7,,./0.png
+-72.707485,18.951852,913,Artibonite,Saint-Marc,2025/09/06 12:43:00.329-04,b'Armed men installed paid checkpoints in the areas of Twou Sab and the National High School of Montrouis.',4,,./0.png
+-72.855492,18.430398,1285,West,Petit-Goave,2025/10/27 11:58:00.201-04,"b""People are angry after the release of a gang member / Police on the scene use tear gas. and also fired into the air to disperse the crowd. The population went to the individual's house and destroyed it.""",6,,./0.png
+-73.813637,18.163729,37,South,Torbeck,2025/05/08 10:37:00-04,,1,,./0.png
+-74.451724,18.48569,63,Grande'Anse,Anse d'Hainault,2025/05/12 16:22:00-04,b'The angry population set fire to the police station',6,,./0.png
+-72.824078,18.4354,397,West,Grand-Goave,2025/06/26 11:25:00.785-04,b'Popular protest to have the bridge repaired. Unknown individuals removes hardware from the bridge making it unsafe for vehicles to pass.',6,,./0.png
+-72.844853,18.436443,423,West,Petit-Goave,2025/07/01 17:29:00-04,b'RN 2 is blocked at the Dingue River bridge\nTruck across the road / the population demands that the government repair the bridge',6,,./0.png
+-72.770545,18.426833,440,West,Grand-Goave,2025/07/04 11:34:00-04,b'Grand Goave blocked by the population due to rumors concerning the installation of a new administrator at the Ministry of Health.',6,,./0.png
+-72.772476,18.42896,460,West,Grand-Goave,2025/07/07 07:33:00-04,,1,,./0.png
+-72.705652,18.950825,1002,Artibonite,Saint-Marc,2025/09/18 12:03:00.858-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.259689,18.556157,933,West,Tabarre,2025/09/09 16:36:00.231-04,b'3 gang members killed by UTAG unit / One police officer killed in clash',1,,./0.png
+-72.423969,18.740296,942,West,Cabaret,2025/09/10 10:58:00.545-04,b'Reporting RN1 is blocked at Cabaret level by trucks across the road.',7,,./0.png
+-72.305137,18.548883,954,West,Delmas,2025/09/11 20:27:00-04,,1,,./0.png
+-72.703777,18.950421,1243,West,Arcahaie,2025/10/21 11:36:00.510-04,b'The gang members allegedly took control of the city and installed a new gang leader without committing any acts of murder.',8,"[ 1, 14 ]",./0.png
+-72.70673,18.951167,1250,Artibonite,Saint-Marc,2025/10/22 07:08:00.589-04,b'Gang members shoot at people and burn houses.',1,"[ 1, 14 ]",./0.png
+-71.7708053742221,18.0830544199332,1294,South-East,Anse-a-Pitre,2025/11/02 12:03:38.575-05,Confrontations,1,"[ 11, 13 ]",./0.png
+-72.314942,18.532597,985,West,Port-au-Prince,2025/09/16 10:32:00.922-04,"b'Police opened fire on a motorcyclist who refused to stop, killing two passersby and injuring several others.'",1,,./0.png
+-72.575684,18.843656,1003,West,Arcahaie,2025/09/18 12:36:00.654-04,b'RN1 is blocked at the level of Williamson by the population',6,,./0.png
+-72.305652,18.586542,1015,West,Cite Soleil,2025/09/19 08:59:00.175-04,,1,,./0.png
+-72.69552,19.447581,988,Artibonite,Gonaives,2025/09/16 15:29:00.722-04,b'Wilfort Ferdinand was shot dead.',1,,./0.png
+-72.693907,19.446584,990,Artibonite,Gonaives,2025/09/16 16:52:00.187-04,b'Members of the population are angry following the murder of a person this afternoon.',4,,./0.png
+-72.695405,19.447618,992,Artibonite,Gonaives,2025/09/17 11:53:00.390-04,"b'Armed men fire into the air to show their displeasure at the man who was killed yesterday , Wilfort Ferdinand'",4,,./0.png
+-72.6945553427867,19.4469718641953,1020,Artibonite,Gonaives,2025/09/19 13:28:00.312-04,b' Burning barricades are erected in downtown of Gonaives.',4,,./0.png
+-72.198541,19.760343,1014,North,Cap-Haitien,2025/09/19 07:55:00.999-04,b'Burning tires in area / ANPE employees demonstrate their anger at the dismissal of director Ronald C\xc3\xa9licourt',6,,./0.png
+-72.063399,18.533043,1028,West,Ganthier,2025/09/20 08:38:00.330-04,b'Armed men set up toll booths on the RN8 in the town centre of Ganthier.',2,,./0.png
+-71.98558,18.515603,1029,West,Ganthier,2025/09/20 08:38:00.085-04,b'Armed men set up toll booths on the RN8 in the town centre of Fond-Parisien ',2,,./0.png
+-72.289422,18.537428,1030,West,Delmas,2025/09/20 10:22:00.697-04,b'A man was murdered',3,,./0.png
+-72.32895,18.5463,1047,West,Port-au-Prince,2025/09/22 18:42:45.622-04,b'Fort National area is blocked by the population / they are protesting the death of a young man killed yesterday by a BOID police officer during a football match!',6,,./0.png
+-72.226687,18.578447,1063,West,Croix-Des-Bouquets,2025/09/25 07:58:00-04,b'Armed men in area.',4,,./0.png
+-72.290084,18.536485,1068,West,Delmas,2025/09/26 09:03:00.443-04,,1,,./0.png
+-72.675573,19.668792,1064,Artibonite,Gros Morne,2025/09/25 12:31:00-04,b'The population demonstrates against insecurity',6,,./0.png
+-72.728788,19.065202,1053,Artibonite,Saint-Marc,2025/09/23 08:02:00.977-04,b'The population set up burning barricades / reason unknown',6,,./0.png
+-72.604454,19.31307,1043,Artibonite,L'Estere,2025/09/21 17:50:00-04,b'RN1 blocked after Est\xc3\xa8re towards the north by a truck across the road / The population is demonstrating against the change of the departmental director of police in Artibonite.',6,,./0.png
+-72.604506,19.313887,1045,Artibonite,L'Estere,2025/09/22 10:25:00.995-04,b' RN1 still blocked after Est\xc3\xa8re towards the northby a truck across the road / passage impossible for the moment / Police are on site trying to unblock the road.\nThe population is demonstrating against the change of the departmental director of police in Artibonite.',6,,./0.png
+-72.604518,19.314023,1052,Artibonite,L'Estere,2025/09/22 18:59:03.606-04,b'RN1 still blocked after Est\xc3\xa8re towards the north by a truck across the road.',7,,./0.png
+-72.832335,18.437076,1059,West,Petit-Goave,2025/09/24 13:04:00.667-04,b'The population blocked the national road 2 before Petit Goave for unknown reasons',6,,./0.png
+-71.812374,18.85137,1097,Centre,Belladere,2025/09/29 10:08:00.797-04,b'RD31 is blocked by the population at Belladere / the population demands that the government take concrete measures against insecurity in the Centre Department.',6,,./0.png
+-72.301266,18.55262,1109,West,Delmas,2025/10/02 07:41:00.881-04,b'Burning tires  front of the MTPTC offices / employees are protesting over their salaries.',6,,./0.png
+-72.681358,19.456938,1099,Artibonite,Gonaives,2025/09/29 13:09:00.773-04,b'Demonstration in Raboto district and  downtown of Gona\xc3\xafves  / armed men from Raboto district accompanied by several members of the population who are protesting against the assassination of Wilfort Ferdinand. (For two hours)\nburning barricades during the demonstration at route des Dattes',6,,./0.png
+-72.604583,19.3135,1082,Artibonite,L'Estere,2025/09/27 11:35:00.859-04,b'All day the RN1 is blocked at Est\xc3\xa8re level by the population against a possible planned attack by the gangs / passage impossible for the moment.',6,,./0.png
+-74.112287,18.629495,1096,Grande'Anse,Jeremie,2025/09/29 09:52:00.687-04,b'RN7 is blocked by the population at the Pont \xc3\xa0 Roseaux before J\xc3\xa9r\xc3\xa9mie / vehicles across the road / the population is angry and is asking CPT to set up a new municipal council in J\xc3\xa9r\xc3\xa9mie.',6,,./0.png
+-72.323526,18.532172,1119,West,Port-au-Prince,2025/10/03 17:34:25.375-04,b'Demonstration of population  in front of the Digicel offices in Turgeau',6,,./0.png
+-72.603888,18.516951,1134,West,Leogane,2025/10/06 09:33:00.405-04,b'blocked access to Leogane. Burning tires can be found around town as the population is protesting against insecurity. Passage to certain roads is impossible.',6,,./0.png
+-72.100319,18.832408,1136,Centre,Mirebalais,2025/10/06 11:51:00.388-04,b' Population protests because schools are not open due to insecurity / population asks the state to expel the Viv Ansam and restore security.',6,,./0.png
+-72.302158,18.553711,1149,West,Delmas,2025/10/08 09:23:00-04,b'Demonstration of the people coming from displaced persons camps ',6,,./0.png
+-72.696877,19.1053,1135,Artibonite,Saint-Marc,2025/10/06 11:32:00.406-04,b'Population demonstrates against insecurity.',6,,./0.png
+-72.68933,19.446772,1111,Artibonite,Gonaives,2025/10/02 11:51:00.322-04,"b'Large funeral procession for the funeral of Wilfort Ferdinand in the city center of Gona\xc3\xafves / between the police station and and cemetery Rue Lamartinere / strong police presence, calm situation for the moment.'",8,,./0.png
+-72.609123,19.294161,1116,Artibonite,Dessalines,2025/10/03 08:27:00.443-04,b'Population is blocking the passage of all fuel and freight trucks supplying the north via Est\xc3\xa8re / population is demanding that the state take measures to reinforce the police station to secure the city / only public transport vehicles are allowed to cross at this time.',6,,./0.png
+-72.626152,19.150971,1126,Artibonite,Saint-Marc,2025/10/04 09:42:00-04,"b'The population protests to demand that the State take responsibility following numerous murders during the night. According to information, 100 people were killed during the night. The road was opened around 7 p.m. in the evening'",6,,./0.png
+-72.627319,19.151362,1129,Artibonite,Saint-Marc,2025/10/05 09:50:00.279-04,b'The population is protesting to demand that the State take responsibility for the numerous murders during the night of the 3rd to the 4th.',6,,./0.png
+-72.640846,19.15165,1138,Artibonite,Saint-Marc,2025/10/06 12:28:00.292-04,b'The population protests to demand that the State take responsibility and restore security',6,,./0.png
+-72.640778,19.152581,1142,Artibonite,Saint-Marc,2025/10/07 08:08:00-04,b'The population protests to demand that the State take responsibility and restore security',6,,./0.png
+-72.641121,19.151009,1148,Artibonite,Saint-Marc,2025/10/08 08:05:00-04,b'The population protests to demand that the State take responsibility and restore security / passage impossible for the moment.',6,,./0.png
+-74.118464,18.645635,1139,Grande'Anse,Jeremie,2025/10/06 14:39:00.484-04,b'Burning tires in front of the administrative complex in J\xc3\xa9r\xc3\xa9mie / no more information',6,,./0.png
+-74.025913,18.598903,1144,Grande'Anse,Roseaux,2025/10/07 08:59:00-04,b'RN7 is blocked at the level of the commune of Roseaux in the direction of J\xc3\xa9r\xc3\xa9mie / The population is demanding from the government the new municipal cartel in Roseaux.',6,,./0.png
+-74.112843,18.6341,1145,Grande'Anse,Jeremie,2025/10/07 08:59:00-04,b'The population blocked the Carrefour Charles at the entrance to J\xc3\xa9r\xc3\xa9mie in solidarity with the city of Roseaux / The population is demanding from the government the new municipal cartel in Roseaux.',6,,./0.png
+-72.340314,18.54192,1180,West,Port-au-Prince,2025/10/12 09:45:00-04,b'Police operation during the morning with kamikaze drones.',1,,./0.png
+-72.627817,19.151006,1153,Artibonite,Saint-Marc,2025/10/08 12:16:00-04,b'The population protests to demand that the State take responsibility and restore security / passage impossible for the moment.',6,,./0.png
+-72.640786,19.152125,1158,Artibonite,Saint-Marc,2025/10/09 08:08:00.300-04,b'The population protests to demand that the State take responsibility and restore security / passage impossible for the moment.',6,,./0.png
+-72.641052,19.152027,1168,Artibonite,Saint-Marc,2025/10/10 12:13:00.408-04,b'The population protests to demand that the State take responsibility and restore security / passage impossible for the moment.',6,,./0.png
+-72.640958,19.152052,1193,Artibonite,Saint-Marc,2025/10/13 19:47:00-04,b'The population protests to demand that the State take responsibility and restore security / passage impossible for the moment.',6,,./0.png
+-72.300754,18.53061,1201,West,Port-au-Prince,2025/10/15 12:29:00.244-04,"b'Violent demonstration with burning tires, police used tear gas'",6,,./0.png
+-72.316743,18.545693,1204,West,Delmas,2025/10/15 09:03:00.656-04,b'Confrontation between two self-defense groups.',1,,./0.png
+-72.252737,18.523115,1215,West,Petion-Ville,2025/10/17 07:50:00.353-04,b'Gang activity in progress',1,,./0.png
+-72.334748,18.532869,1218,West,Port-au-Prince,2025/10/17 11:06:00.866-04,b'Police operation in progress with kamikaze drone.',1,,./0.png
+-71.942545,18.823619,1230,Centre,Lascahobas,2025/10/18 16:28:00.499-04,b'Clash between gang and police.',1,,./0.png
+-72.640966,19.152305,1196,Artibonite,Saint-Marc,2025/10/14 08:11:00.234-04,b'RN1 is still blocked at Pont Sond\xc3\xa9 / The population protests to demand that the State take responsibility and restore security / passage impossible for the moment.',6,,./0.png
+-72.467125,19.055908,1198,Artibonite,Verrettes,2025/10/14 12:01:00.906-04,b'Demonstration against insecurity and to demand that the state dismantle the Grand Grif gangs in the department.',6,,./0.png
+-72.608437,19.30625,1209,Artibonite,L'Estere,2025/10/16 16:20:00.277-04,b'They are angry following the burning of several rice depots by gang members.',6,,./0.png
+-72.609012,19.303375,1216,Artibonite,L'Estere,2025/10/17 08:24:00.584-04,b'The population and self-defense groups are angry because the gangs burned rice reserves',6,,./0.png
+-72.203766,19.759542,1219,North,Cap-Haitien,2025/10/17 13:10:00.614-04,b'Hugues C\xc3\xa9lestin and his supporters demand justice for former President Jovenel Moise.',6,,./0.png
+-72.31261,18.580166,1241,West,Delmas,2025/10/21 08:38:00.615-04,b'Armed men in area',4,,./0.png
+-72.304888,18.583131,1258,West,Tabarre,2025/10/23 07:59:00.263-04,b'Armed men in area.',4,,./0.png
+-72.288856,18.54559,1260,West,Delmas,2025/10/23 10:04:00.864-04,b'Student demonstration / They are protesting because teachers are not coming to perform their duties.',6,,./0.png
+-72.288844,18.545605,1261,West,Delmas,2025/10/23 11:08:00.587-04,b'Students throw stones at the high school / Police on site.',6,,./0.png
+-72.288904,18.545402,1262,West,Delmas,2025/10/23 11:33:00.128-04,b'Students throw stones at the high school / police fired bullets in the air and uses tear gas to evacuate students.',6,,./0.png
+-72.300701,18.530543,1264,West,Petion-Ville,2025/10/24 10:56:00.955-04,b'Protesters demand security in the country as well as rear and salary / Police use tear gas',6,,./0.png
+-72.329779,18.596074,1265,West,Cite Soleil,2025/10/24 11:46:00.413-04,b'Gang activity in progress',1,,./0.png
+-72.300731,18.530544,1266,West,Petion-Ville,2025/10/24 11:59:00.401-04,b'Protesters demand security in the country as well as rear and salary / Police use tear gas',6,,./0.png
+-72.226651,18.578337,1275,West,Croix-Des-Bouquets,2025/10/25 08:35:00-04,b'Armed men in area.',4,[ 1 ],./0.png
+-72.227516,18.581024,1276,West,Croix-Des-Bouquets,2025/10/25 08:35:00-04,b'Armed men in area.',4,[ 1 ],./0.png
+-72.208779,18.628295,1277,West,Croix-Des-Bouquets,2025/10/25 08:35:00-04,b'Armed men in area',4,[ 1 ],./0.png
+-72.307411,18.907307,371,Artibonite,La Chapelle,2025/06/23 07:50:00-04,"b""For most of the day, members of Savien's gang attacked the area""",1,[ 1 ],./0.png
+-72.3104496,18.9093662,372,Artibonite,La Chapelle,2025/06/23 08:13:00-04,"b""For most of the day, members of Savien's gang attacked the area""",1,[ 1 ],./0.png
+-72.248883,18.581254,387,West,Tabarre,2025/06/24 19:50:00-04,b'Confrontation between armed gangs and the police',1,[ 1 ],./0.png
+-72.066914,18.531657,446,West,Ganthier,2025/07/05 08:49:00-04,"b'Armed men set a checkpoints, in Ganthier.'",2,[ 1 ],./0.png
+-72.596146,19.202731,382,Artibonite,Dessalines,2025/06/24 14:16:00.798-04,b'Armed men in carrefour Pey area',4,[ 1 ],./0.png
+-73.083389,18.440237,1246,Nippes,Miragoane,2025/10/21 13:32:00.659-04,b'RN2 is blocked at Miragoane / Chalons area',7,,./0.png
+-71.983967,18.513605,447,West,Ganthier,2025/07/05 08:49:00-04,b'Armed men set up a checkpoints in Fond-Parisien ',2,[ 1 ],./0.png
+-72.066553,18.532056,495,West,Ganthier,2025/07/12 09:21:00-04,b'Armed men set up a checkpoint in Ganthier ',2,[ 1 ],./0.png
+-72.095306,18.651125,595,West,Thomazeau,2025/07/26 12:35:00.034-04,b'Armed men in area',4,[ 1 ],./0.png
+-72.251123,18.569235,634,West,Tabarre,2025/07/30 14:12:00.413-04,"b'Armed men in area, they search people in the street / gang activity in progress.'",4,[ 1 ],./0.png
+-72.226773,18.578563,635,West,Croix-Des-Bouquets,2025/07/30 12:15:00.250-04,b'Armed men in area',4,[ 1 ],./0.png
+-72.064819,18.527143,726,West,Ganthier,2025/08/09 12:35:00-04,b'Presence of armed men reported',4,[ 1 ],./0.png
+-72.221512,18.579871,1206,West,Croix-Des-Bouquets,2025/10/16 08:23:00.742-04,b'Armed men in area.',4,[ 1 ],./0.png
+-72.20844,18.628351,1221,West,Croix-Des-Bouquets,2025/10/18 08:10:00.374-04,b'Armed men in area.',4,[ 1 ],./0.png
+-72.069973,18.533755,1222,West,Ganthier,2025/10/18 08:12:00.526-04,b'Armed men set up a toll booth at the entrance to the town of Ganthier on the RN8 road towards the border ',2,[ 1 ],./0.png
+-72.221778,18.580034,1289,West,Croix-Des-Bouquets,2025/10/28 07:53:00-04,b'Armed men in area',4,[ 1 ],./0.png
+-72.30512,18.583012,871,West,Tabarre,2025/08/30 11:23:00.749-04,b'Armed men in area.',4,[ 2 ],./0.png
+-72.228413,18.577186,388,West,Croix-Des-Bouquets,2025/06/24 19:35:00-04,b'Confrontation between armed gangs',4,"[ 1, 2 ]",./0.png
+-72.223434,18.604422,524,West,Croix-Des-Bouquets,2025/07/15 20:58:00-04,b'Clash between gangs',1,"[ 1, 2 ]",./0.png
+-72.239573,18.583379,787,West,Croix-Des-Bouquets,2025/08/16 18:20:00-04,b'Clash between gangs and police',1,"[ 1, 2 ]",./0.png
+-72.244274,18.616526,1072,West,Croix-Des-Bouquets,2025/09/26 17:25:00.936-04,b'Clash between gangs',1,"[ 1, 2 ]",./0.png
+-72.338679,18.530094,399,West,Port-au-Prince,2025/06/26 22:25:00-04,,1,[ 4 ],./0.png
+-72.338705,18.530268,401,West,Port-au-Prince,2025/06/27 06:57:00.753-04,,1,[ 4 ],./0.png
+-72.338619,18.530326,406,West,Port-au-Prince,2025/06/27 12:51:00.247-04,,1,[ 4 ],./0.png
+-72.338692,18.53013,410,West,Port-au-Prince,2025/06/28 07:44:00-04,,1,[ 4 ],./0.png
+-72.337499,18.533899,415,West,Port-au-Prince,2025/06/29 09:42:00-04,,1,[ 4 ],./0.png
+-72.338636,18.529935,417,West,Port-au-Prince,2025/06/30 20:05:00-04,,1,[ 4 ],./0.png
+-72.338658,18.530128,418,West,Port-au-Prince,2025/07/01 07:51:00.974-04,,1,[ 4 ],./0.png
+-72.338525,18.530089,419,West,Port-au-Prince,2025/07/01 12:11:00.741-04,,1,[ 4 ],./0.png
+-72.338379,18.532628,425,West,Port-au-Prince,2025/07/02 14:33:00-04,,1,[ 4 ],./0.png
+-72.339349,18.533108,620,West,Port-au-Prince,2025/07/28 19:24:00-04,,1,[ 4 ],./0.png
+-72.338739,18.530235,625,West,Port-au-Prince,2025/07/29 10:19:00.415-04,,1,[ 4 ],./0.png
+-72.319852,18.567134,628,West,Delmas,2025/07/29 12:29:00.023-04,,1,[ 4 ],./0.png
+-72.338654,18.530201,633,West,Port-au-Prince,2025/07/30 13:52:00.283-04,,1,[ 4 ],./0.png
+-72.338651,18.530191,636,West,Port-au-Prince,2025/07/31 07:52:00.790-04,,1,[ 4 ],./0.png
+-72.336452,18.541917,642,West,Port-au-Prince,2025/07/31 12:44:00.594-04,,1,[ 4 ],./0.png
+-72.338345,18.530366,648,West,Port-au-Prince,2025/08/01 09:43:00.710-04,,1,[ 4 ],./0.png
+-72.311162,18.553481,651,West,Delmas,2025/08/01 15:31:00.005-04,,1,[ 4 ],./0.png
+-72.338735,18.530004,652,West,Port-au-Prince,2025/08/01 19:00:00-04,,1,[ 4 ],./0.png
+-72.338684,18.530193,779,West,Port-au-Prince,2025/08/16 08:04:00-04,,1,[ 4 ],./0.png
+-72.336289,18.541808,784,West,Port-au-Prince,2025/08/16 10:29:00-04,,1,[ 4 ],./0.png
+-72.336461,18.533442,785,West,Port-au-Prince,2025/08/16 13:42:00-04,,1,[ 4 ],./0.png
+-72.333914,18.546279,786,West,Port-au-Prince,2025/08/16 18:06:00-04,,1,[ 4 ],./0.png
+-72.338641,18.53038,788,West,Port-au-Prince,2025/08/16 20:03:00-04,,1,[ 4 ],./0.png
+-72.340205,18.542273,789,West,Port-au-Prince,2025/08/16 21:25:00-04,,1,[ 4 ],./0.png
+-72.338628,18.530065,790,West,Port-au-Prince,2025/08/17 20:54:00-04,,1,[ 4 ],./0.png
+-72.338619,18.530014,794,West,Port-au-Prince,2025/08/18 12:46:00.670-04,,1,[ 4 ],./0.png
+-72.340118,18.532985,796,West,Port-au-Prince,2025/08/18 17:24:00.427-04,b'Police operation in progress with kamikaze drone',1,[ 4 ],./0.png
+-72.340456,18.541845,797,West,Port-au-Prince,2025/08/18 18:21:00-04,,1,[ 4 ],./0.png
+-72.336302,18.541775,798,West,Port-au-Prince,2025/08/18 19:56:00-04,b'Clash between gang and police',1,[ 4 ],./0.png
+-72.333871,18.54633,800,West,Port-au-Prince,2025/08/18 20:20:00-04,b'Clash  between gang and police.',1,[ 4 ],./0.png
+-72.33516,18.54099,1233,West,Port-au-Prince,2025/10/19 13:15:00-04,b'Police operation underway and use of suicide drones',1,[ 4 ],./0.png
+-72.33525,18.540833,1234,West,Port-au-Prince,2025/10/19 15:41:00-04,b'Police operation underway and use of suicide drones',1,[ 4 ],./0.png
+-72.33861,18.530276,1235,West,Port-au-Prince,2025/10/20 08:03:00.475-04,b'Clash between gang and police helped by armed population.',1,[ 4 ],./0.png
+-72.33677,18.530286,1236,West,Port-au-Prince,2025/10/20 12:05:00.377-04,b'Police operation underway with kamikaze drones.',1,[ 4 ],./0.png
+-72.338605,18.530303,1240,West,Port-au-Prince,2025/10/21 07:43:00.447-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.338675,18.530335,1247,West,Port-au-Prince,2025/10/21 18:07:00.152-04,b'Clash between gang and police.',1,[ 4 ],./0.png
+-72.389045,18.991475,1259,Artibonite,Verrettes,2025/10/23 08:02:00.936-04,b'Shooting at Christan district',1,[ 6 ],./0.png
+-72.25683868,18.56879547,684,West,Tabarre,2025/08/06 08:40:00-04,,1,[ 10 ],./0.png
+-72.390186,18.989659,621,Artibonite,Verrettes,2025/07/28 20:04:00-04,b'Clash between gang and police helped by armed population.',1,[ 14 ],./0.png
+-72.388367,18.984239,545,Artibonite,Verrettes,2025/07/19 14:57:00-04,,1,"[ 1, 14 ]",./0.png
+-72.256222,18.522484,693,West,Petion-Ville,2025/08/07 05:55:00-04,b'Clash between gang and police.',1,"[ 5, 18 ]",./0.png
+-72.33532548,18.5389023,702,West,Port-au-Prince,2025/08/07 12:35:00-04,b'Clash between gang and police.',1,"[ 5, 18 ]",./0.png
+-72.338684,18.530142,360,West,Port-au-Prince,2025/06/21 19:52:00-04,,1,"[ 7, 18 ]",./0.png
+-72.417549,18.737254,456,West,Cabaret,2025/07/06 16:23:00.107-04,b'Clash between gangs.',1,"[ 14, 18 ]",./0.png
